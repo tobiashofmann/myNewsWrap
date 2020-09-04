@@ -21,32 +21,31 @@
 ## Microsoft Universe
 ### Azure Functions
 * [August's Azure Functions Live](https://youtu.be/U5qF3h-b0vU) was a blast. A lot of cool news around Azure Functions like:
-** Finally the [Extension Bundles](https://github.com/Azure/azure-functions-extension-bundles/releases/tag/2.0.0) have been updated - hello Durable Entities without much ado
-** Preview of [Functions Extension](https://cloudblogs.microsoft.com/opensource/2020/07/01/announcing-azure-functions-extension-for-dapr/) for Dapr
-** Serverless APIs -> Watch the video, it is worth it! 
+    * Finally the [Extension Bundles](https://github.com/Azure/azure-functions-extension-bundles/releases/tag/2.0.0) have been updated - hello Durable Entities without much ado
+    * Preview of [Functions Extension](https://cloudblogs.microsoft.com/opensource/2020/07/01/announcing-azure-functions-extension-for-dapr/) for Dapr
+    * Serverless APIs -> Watch the video, it is worth it! 
 
 * Orchestrating batches via Durable Functions - nice scenario
 [Azure Durable Functions managing Azure Batch Jobs](https://github.com/fbeltrao/azure-batch-with-durable-functions)
 
-* Azure Managed Identities in Azure Functions or [Secretless Azure FUnction Development](https://devblogs.microsoft.com/azure-sdk/secretless-azure-functions-dev-with-the-new-azure-identity-libraries/)
+* Azure Managed Identities in Azure Functions or [Secretless Azure Function Development](https://devblogs.microsoft.com/azure-sdk/secretless-azure-functions-dev-with-the-new-azure-identity-libraries/)
 
 
 ## SAP and Microsoft - Combining both worlds
 * [Combining Cognitive Services and SAP Cloud Platform](https://blogs.sap.com/2020/08/25/using-azure-cognitive-services-with-sap-cloud-platform/)
 
 * Security, always only half the fun ...
-** ... but here is a nice read and hands-on lab about [Principal Propagation between Azure and NetWeaver](https://www.linkedin.com/posts/activity-6703598263079059457-QAXT/)
-** ... and another one on [Principal propagation in a multi-cloud solution between Microsoft Azure and SAP Cloud Platform](https://blogs.sap.com/2020/07/17/principal-propagation-in-a-multi-cloud-solution-between-microsoft-azure-and-sap-cloud-platform-scp/?)
+    * but here is a nice read and hands-on lab about [Principal Propagation between Azure and NetWeaver](https://www.linkedin.com/posts/activity-6703598263079059457-QAXT/)
+    * and another one on [Principal propagation in a multi-cloud solution between Microsoft Azure and SAP Cloud Platform](https://blogs.sap.com/2020/07/17/principal-propagation-in-a-multi-cloud-solution-between-microsoft-azure-and-sap-cloud-platform-scp/?)
 
 
 ## Events and Education
 * [SAP's Devtoberfest](https://blogs.sap.com/2020/08/20/devtoberfest-2020/)
-* openSAP Course on [Extending SAP Processes with Microsoft Azure](https://open.sap.com/courses/ma1)
+* [Serverless September](https://dev.to/azure/serverlessseptember-2020-content-collection-443k); see also [Create:Serverless](https://createserverless2020.splashthat.com/)
+* openSAP Course on [Extending SAP Processes with Microsoft Azure](https://open.sap.com/courses/ma1) ... postponed
 
 ## Productivity 
 * NDI support for Microsoft Teams is available/rolling out: [Link](https://support.microsoft.com/en-us/office/using-ndi-with-microsoft-teams-e91a0adb-96b9-4dca-a2cd-07181276afa3?ui=en-US&rs=en-US&ad=US)
-
-* Ever used `tree` in your console? Give it a try
 
 ## To follow
 * [SAP on Azure Video Podcast](https://www.youtube.com/c/SAPonAzure) on YouTube
