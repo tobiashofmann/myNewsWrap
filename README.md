@@ -1,62 +1,58 @@
-# Episode 01: myNewsWrap – SAP and Microsoft 
+# Episode 02: myNewsWrap – SAP and Microsoft 
 
 ## Links to Video and Podcast
-* YouTube: [Link](https://youtu.be/oa2n_UgAXH4)
-* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-01-ej4gg6)
+* YouTube: 
+* AnchorFM (Audio Stream): 
 
 ## SAP Universe
 ### SAP Cloud Platform
-* News around SAP Cloud Platform multi-cloud and NEO
-    * In general: [SAP Cloud Platform – moving forward on our multi-cloud strategy](https://blogs.sap.com/2020/07/27/sap-cloud-platform-moving-forward-on-our-multi-cloud-strategy/)
-    * Trial: [SAP Cloud Platform Trial: Continuous Innovation with Multi-Cloud Focus](https://blogs.sap.com/2020/08/07/sap-cloud-platform-trial-continuous-innovation-with-multi-cloud-focus/)
+* Some thoughts on SAP CP Trial by Tobias Hofmann: [The change in SCP trial reveals its biggest problem](https://www.itsfullofstars.de/2020/09/the-change-in-scp-trial-reveals-its-biggest-problem/)
+* Long awaited central Launchpad aka [SAP Cloud Platform Launchpad](https://blogs.sap.com/2020/09/02/boost-user-productivity-and-simplify-access-to-business-apps-with-sap-cloud-platform-launchpad/). 
+    * Also as a [trial](https://blogs.sap.com/2020/09/08/start-your-free-trial-for-sap-cloud-platform-launchpad/)
+    * [Blog post series](https://blogs.sap.com/2020/09/11/building-a-central-launchpad-using-sap-cloud-platform-launchpad-service-developing-html5-apps/) on how to develop with the new service 
+* Transporting Integration Content via [SAP Cloud Platform Content Agent](https://blogs.sap.com/2020/08/30/introducing-sap-cloud-platform-content-agent-enhanced-transport-capabilities-for-sap-cloud-platform-integration-suite-content/)
 
-### SAP Cloud Application Programing Model
-* CAP and Multitenancy: probably one of the topics when you build applications - the blog post [Getting your head into Cloud Application Programming model multitenancy](https://blogs.sap.com/2020/08/20/getting-your-head-into-cloud-application-programming-model-multitenancy/) might be useful for you
-* [CAP with PostgresSQL](https://github.com/gregorwolf/pg-beershop#execution-on-sap-cloud-platform) by Gregor Wolf.
-* Christian Drumm is building up an end2end scenario with SAP's latest and greatest stuff including CAP. More information si available in his [GitHub repo](https://github.com/ceedee666/erp_scp_end_2_end) 
+### Cloud Application Programing Model
+* [Devtoberfest Enablement on CAP](https://www.youtube.com/playlist?list=PL6RpkC85SLQBFi4SK77b2y4EwlXMVG0XJ)
 
-## Kyma ([Extend your applications with Kubernetes](https://kyma-project.io/))
-* [Kyma Hands-On Series - Part 3](https://blogs.sap.com/2020/08/28/kyma-hands-on-part-3/)
+### Kyma
+* [Kyma runtime now available for partners to test, demo & develop](https://blogs.sap.com/2020/09/11/kyma-runtime-now-available-for-partners-to-test-demo-develop/)
 
 ### Misc
-* [SAP Graph, API Sandbox Beta](https://blogs.sap.com/2020/08/25/sap-graph-api-sandbox-beta/), after registration write operations are possible
-* [Coffee Corner Radio](https://anchor.fm/sap-community-podcast) - New Episode on DevOps! 
+* Bootstrap OnPrem UI5 with CDN - [mind the OSS](https://twitter.com/christian_punz/status/1301466005093396480?s=20)
 
 ## Microsoft Universe
-### Azure Functions
-* [August's Azure Functions Live](https://youtu.be/U5qF3h-b0vU) was a blast. A lot of cool news around Azure Functions like:
-    * Finally the [Extension Bundles](https://github.com/Azure/azure-functions-extension-bundles/releases/tag/2.0.0) have been updated - hello Durable Entities without much ado
-    * Preview of [Functions Extension](https://cloudblogs.microsoft.com/opensource/2020/07/01/announcing-azure-functions-extension-for-dapr/) for Dapr
-    * Serverless APIs -> Watch the video, it is worth it! 
+### Microsoft Power Platform
+* [Overview on Power Platform](https://youtu.be/XjQH29z6M3M) presented at Azure Meetup Frankfurt
+* [Actionable Messages and Adaptive Cards](https://www.linkedin.com/posts/tomaszposzytek_actionablemessages-adaptivecards-outlook-activity-6706825765842956288-XQSI/)
 
-* Orchestrating batches via Durable Functions - nice scenario
-[Azure Durable Functions managing Azure Batch Jobs](https://github.com/fbeltrao/azure-batch-with-durable-functions)
+### Azure Functions/Serverless
+* [Azure Friday Session](https://youtu.be/7G_oDLON7Us) on Serverless containers with Azure Container Instances (ACI)
+* [Serverless Chaos Engineering](https://youtu.be/FDSb4vMhhyw?t=1466) at Serverless London September 
+* [Using Blob Triggers from Private Endpoint](https://carlos.mendible.com/2020/05/18/azure-functions-use-blob-trigger-with-private-endpoint/)
+* [New Durable Function Extension Release](https://github.com/Azure/azure-functions-durable-extension/releases/tag/v2.3.0) 
 
-* Azure Managed Identities in Azure Functions or [Secretless Azure Function Development](https://devblogs.microsoft.com/azure-sdk/secretless-azure-functions-dev-with-the-new-azure-identity-libraries/)
-
+### Misc
+* News about MSAL 2.0
+    * [Azure AD v2 and MSAL in 2020](https://joonasw.net/view/azure-ad-v2-and-msal-in-2020)
+    * [MSAL and Microsoft Graph in Microsoft identity platform-August 2020](https://youtu.be/7PQnOmqr8Fw)
 
 ## SAP and Microsoft - Combining both worlds
-* [Combining Cognitive Services and SAP Cloud Platform](https://blogs.sap.com/2020/08/25/using-azure-cognitive-services-with-sap-cloud-platform/)
-
-* Security, always only half the fun ...
-    * but here is a nice read and hands-on lab about [Principal Propagation between Azure and NetWeaver](https://www.linkedin.com/posts/activity-6703598263079059457-QAXT/)
-    * and another one on [Principal propagation in a multi-cloud solution between Microsoft Azure and SAP Cloud Platform](https://blogs.sap.com/2020/07/17/principal-propagation-in-a-multi-cloud-solution-between-microsoft-azure-and-sap-cloud-platform-scp/?)
-
+* [Power Automate + AI Builder - How to evaluate forms and create objects in SAP](https://youtu.be/PP3lyOCJwzY)
+* [Native iOS App](https://www.linkedin.com/posts/andrerussell1_microsoft-henkel-ios-activity-6706376868637102080-Db1U/) combining SAP Sales Cloud, SAP ERP and Microsoft
+* [Monitoring SAP end2end](https://www.microsoft.com/en-us/itshowcase/monitoring-sap-end-to-end-on-azure) - look into Microsoft own SAP ops
 
 ## Events and Education
-* [SAP's Devtoberfest](https://blogs.sap.com/2020/08/20/devtoberfest-2020/)
-* [Serverless September](https://dev.to/azure/serverlessseptember-2020-content-collection-443k); see also [Create:Serverless](https://createserverless2020.splashthat.com/)
-* openSAP Course on [Extending SAP Processes with Microsoft Azure](https://open.sap.com/courses/ma1) ... postponed
+* openSAP course on [Building Apps with the ABAP RESTful Application Programming Model](https://open.sap.com/courses/cp13)
+* Webinar on Kyma by UK SAP User Group: [Build side-by-side extensions using SAP Cloud Platform Extension Factory, Kyma runtime](https://www.sapusers.org/events/2772/build-side-by-side-extensions-using-sap-cloud-platform-extension-factory-kyma-runtime) 
+* [Microsoft Ignite](https://myignite.microsoft.com/home) - registration is open
+* [SAP und Azure | Microsoft-Thementag 2020](https://it-onlinemagazin.de/sap-und-azure-microsoft-thementag-2020-it-onlinekonferenz/) (German)
 
-## Productivity 
-* NDI support for Microsoft Teams is available/rolling out: [Link](https://support.microsoft.com/en-us/office/using-ndi-with-microsoft-teams-e91a0adb-96b9-4dca-a2cd-07181276afa3?ui=en-US&rs=en-US&ad=US)
+## Productivity & Developer Experience
+* [Windows PowerToys](https://build5nines.com/install-windows-powertoys/)
 
 ## To follow
-* [SAP on Azure Video Podcast](https://www.youtube.com/c/SAPonAzure) on YouTube
-
-* In case you want to see some cool stuff on how to combine SAP and Microsoft you should follow [Martin Pankraz](https://people.sap.com/martin-pankraz).
-
-* Last but not least [Roman Broich](https://www.linkedin.com/in/roman-broich/) who is doing quite some nice incubator stuff in the area SAP and Microsoft integration
+* [Nabheet Madan](https://people.sap.com/nabheetscn), especially learning content on his [YouTube channel](https://www.youtube.com/NabheetMadan) 
 
 ## Disclaimer
 The podcast as well as the content of the repository represent my opinion and especially does not represent the one of my employer, SAP, Microsoft or DSAG. 
