@@ -1,58 +1,63 @@
-# Episode 02: myNewsWrap – SAP and Microsoft 
+# Episode 03: myNewsWrap – SAP and Microsoft 
 
 ## Links to Video and Podcast
-* YouTube: [Link](https://youtu.be/YqmkUm3cjP8)
-* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-02-ejffd8)
+* YouTube: - 
+* AnchorFM (Audio Stream): - 
 
 ## SAP Universe
 ### SAP Cloud Platform
-* Some thoughts on SAP CP Trial by Tobias Hofmann: [The change in SCP trial reveals its biggest problem](https://www.itsfullofstars.de/2020/09/the-change-in-scp-trial-reveals-its-biggest-problem/)
-* Long awaited central Launchpad aka [SAP Cloud Platform Launchpad](https://blogs.sap.com/2020/09/02/boost-user-productivity-and-simplify-access-to-business-apps-with-sap-cloud-platform-launchpad/). 
-    * Also as a [trial](https://blogs.sap.com/2020/09/08/start-your-free-trial-for-sap-cloud-platform-launchpad/)
-    * [Blog post series](https://blogs.sap.com/2020/09/11/building-a-central-launchpad-using-sap-cloud-platform-launchpad-service-developing-html5-apps/) on how to develop with the new service 
-* Transporting Integration Content via [SAP Cloud Platform Content Agent](https://blogs.sap.com/2020/08/30/introducing-sap-cloud-platform-content-agent-enhanced-transport-capabilities-for-sap-cloud-platform-integration-suite-content/)
+* Remember last week's blog about trial offering? That had an aftermath
+    * Statement/PoV by [Den Howlett (Diginomica)](https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-sap-developers-cant-have-nice-things?amp)
+    * Another blog on SAP Community: [Are You There, SAP? It’s Us, Developers](https://blogs.sap.com/2020/09/14/are-you-there-sap-its-us-developers/)
+    * But also two statements by [Steffen Schad](https://twitter.com/steffenschad/status/1305435724129460224?s=20) and [Juergen Mueller](https://twitter.com/JuerMueller/status/1305765849924595714?s=20), that SAP is working on it. Let us see what will come, maybe at TechEd?
+* Creative proposal by Tobias Hoffmann on an [alternative models for SAP Cloud Platform trial](https://www.itsfullofstars.de/2020/09/alternative-models-for-sap-cloud-platform-trial/)
+* [Renaming on SCP and Extensions](https://blogs.sap.com/2020/09/14/the-evolution-of-sap-cloud-platform-extension-factory-into-sap-cloud-platform-extension-suite/): we have now the "Extension Suite" and just "runtimes" 
+* News on SAP Cloud Platform Management, namely [CLI](https://blogs.sap.com/2020/09/15/introducing-cloud-management-tools-cli-and-apis-for-sap-cloud-platform-part-1/) and [Service APIs](https://blogs.sap.com/2020/09/15/introducing-cloud-management-tools-cli-and-apis-for-sap-cloud-platform-part-2/)
+* Examples for deploying UI5 apps to SAP Cloud Platform: [GitHub Repo](https://github.com/SAP-samples/multi-cloud-html5-apps-samples)
+* [DevOps Services and SAP Cloud Platform](https://blogs.sap.com/2020/09/07/achieve-continuous-integration-and-delivery-using-devops-services-in-sap-cloud-platform/)
 
 ### Cloud Application Programing Model
-* [Devtoberfest Enablement on CAP](https://www.youtube.com/playlist?list=PL6RpkC85SLQBFi4SK77b2y4EwlXMVG0XJ)
+* [CAP Interview](https://podcast.opensap.info/close-the-gap/2020/09/15/apps-entwickeln-leicht-gemacht-das-sap-cloud-applikation-programming-model/) on "Close the Gap" - Target audience not hardcore techies but suitable for a first glance into the topic and maybe for "managers"
+* [Analytical annotations and CAP](https://blogs.sap.com/2020/09/10/adding-a-donut-chart-on-top-of-cap-service/)
 
 ### Kyma
-* [Kyma runtime now available for partners to test, demo & develop](https://blogs.sap.com/2020/09/11/kyma-runtime-now-available-for-partners-to-test-demo-develop/)
+* Sneak Peek: Cool talk about SAP's internal experience with Kyma at [DSAG Live](https://dsaglive.plazz.net/)
 
 ### Misc
-* Bootstrap OnPrem UI5 with CDN - [mind the OSS](https://twitter.com/christian_punz/status/1301466005093396480?s=20)
+* From the "ABAP's not dead" area 
+    * [RAP Generator](https://blogs.sap.com/2020/05/17/the-rap-generator/) - now with click through guide
+    * [CDS Entities](https://blogs.sap.com/2020/09/02/a-new-generation-of-cds-views-cds-view-entities/) as successor of CDS Views 
 
 ## Microsoft Universe
-### Microsoft Power Platform
-* [Overview on Power Platform](https://youtu.be/XjQH29z6M3M) presented at Azure Meetup Frankfurt
-* [Actionable Messages and Adaptive Cards](https://www.linkedin.com/posts/tomaszposzytek_actionablemessages-adaptivecards-outlook-activity-6706825765842956288-XQSI/)
 
 ### Azure Functions/Serverless
-* [Azure Friday Session](https://youtu.be/7G_oDLON7Us) on Serverless containers with Azure Container Instances (ACI)
-* [Serverless Chaos Engineering](https://youtu.be/FDSb4vMhhyw?t=1466) at Serverless London September 
-* [Using Blob Triggers from Private Endpoint](https://carlos.mendible.com/2020/05/18/azure-functions-use-blob-trigger-with-private-endpoint/)
-* [New Durable Function Extension Release](https://github.com/Azure/azure-functions-durable-extension/releases/tag/v2.3.0) 
+* [Portable Azure Functions](https://dev.to/lynnaloo/the-curious-developer-s-guide-to-portable-azure-functions-109m)
+    * [Keda 2.0 beta](https://keda.sh/blog/keda-2.0-beta/) is out
+* [Refactoring Express apps to serverless](https://dev.to/azure/refactor-node-js-and-express-apis-to-serverless-free-workshop-p8f)
+* [Azure Functions for Ops](https://blog.victorsilva.com.uy/functions-swiss-army-ops/)
+
+### DevOps
+* [Demystifying ARM Templates](https://dev.to/azure/demystifying-arm-templates-introduction-to-arm-templates-4anh)
+* [Azure Biceps](https://build5nines.com/get-started-with-azure-bicep/) - an alternative to ARM templates as declarative Domain Specific Language 
+    * [Example for IoT Hub](https://build5nines.com/azure-bicep-create-iot-hub-and-device-provisioning-service-dps/)
+    * [Roadmap for the next Quarter](https://build5nines.com/azure-bicep-roadmap-q420-into-2021/)
 
 ### Misc
-* News about MSAL 2.0
-    * [Azure AD v2 and MSAL in 2020](https://joonasw.net/view/azure-ad-v2-and-msal-in-2020)
-    * [MSAL and Microsoft Graph in Microsoft identity platform-August 2020](https://youtu.be/7PQnOmqr8Fw)
+* [How Microsoft designs APIs](https://youtu.be/tx09RSNa154)
+* New kid on the block on resources about Azure [Azurecrazy](https://azurecrazy.com/)
 
 ## SAP and Microsoft - Combining both worlds
-* [Power Automate + AI Builder - How to evaluate forms and create objects in SAP](https://youtu.be/PP3lyOCJwzY)
-* [Native iOS App](https://www.linkedin.com/posts/andrerussell1_microsoft-henkel-ios-activity-6706376868637102080-Db1U/) combining SAP Sales Cloud, SAP ERP and Microsoft
-* [Monitoring SAP end2end](https://www.microsoft.com/en-us/itshowcase/monitoring-sap-end-to-end-on-azure) - look into Microsoft own SAP ops
+* Nothing crossed my path this week :-(
 
 ## Events and Education
-* openSAP course on [Building Apps with the ABAP RESTful Application Programming Model](https://open.sap.com/courses/cp13)
-* Webinar on Kyma by UK SAP User Group: [Build side-by-side extensions using SAP Cloud Platform Extension Factory, Kyma runtime](https://www.sapusers.org/events/2772/build-side-by-side-extensions-using-sap-cloud-platform-extension-factory-kyma-runtime) 
-* [Microsoft Ignite](https://myignite.microsoft.com/home) - registration is open
-* [SAP und Azure | Microsoft-Thementag 2020](https://it-onlinemagazin.de/sap-und-azure-microsoft-thementag-2020-it-onlinekonferenz/) (German)
+* MSIgnite - Nice to know: [Virtual Roundtables](https://twitter.com/marmaleki/status/1305552266489806849?s=21): Opportunity to talk to the engineering team
 
 ## Productivity & Developer Experience
-* [Windows PowerToys](https://build5nines.com/install-windows-powertoys/)
+* [WSL2 Backport to Windows 1903 and 1909](https://devblogs.microsoft.com/commandline/wsl-2-support-is-coming-to-windows-10-versions-1903-and-1909/)
+* [Visual Studio Codespaces consolidated into GitHub Codespaces](https://devblogs.microsoft.com/visualstudio/visual-studio-codespaces-is-consolidating-into-github-codespaces/)
 
 ## To follow
-* [Nabheet Madan](https://people.sap.com/nabheetscn), especially learning content on his [YouTube channel](https://www.youtube.com/NabheetMadan) 
+* [Christian Michel](https://twitter.com/cwmichel) - Close the Gap (SAP Podcast)
 
 ## Disclaimer
 The podcast as well as the content of the repository represent my opinion and especially does not represent the one of my employer, SAP, Microsoft or DSAG. 
