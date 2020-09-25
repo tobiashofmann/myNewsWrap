@@ -1,63 +1,46 @@
-# Episode 03: myNewsWrap – SAP and Microsoft 
+# Episode 04: myNewsWrap – SAP and Microsoft 
 
 ## Links to Video and Podcast
-* YouTube: [Link](https://youtu.be/4WiRvvXh230) 
-* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-03-ejqsh7) 
-
-## SAP Universe
-### SAP Cloud Platform
-* Remember last week's blog about trial offering? That had an aftermath
-    * Statement/PoV by [Den Howlett (Diginomica)](https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-sap-developers-cant-have-nice-things?amp)
-    * Another blog on SAP Community: [Are You There, SAP? It’s Us, Developers](https://blogs.sap.com/2020/09/14/are-you-there-sap-its-us-developers/)
-    * But also two statements by [Steffen Schad](https://twitter.com/steffenschad/status/1305435724129460224?s=20) and [Juergen Mueller](https://twitter.com/JuerMueller/status/1305765849924595714?s=20), that SAP is working on it. Let us see what will come, maybe at TechEd?
-* Creative proposal by Tobias Hoffmann on an [alternative models for SAP Cloud Platform trial](https://www.itsfullofstars.de/2020/09/alternative-models-for-sap-cloud-platform-trial/)
-* [Renaming on SCP and Extensions](https://blogs.sap.com/2020/09/14/the-evolution-of-sap-cloud-platform-extension-factory-into-sap-cloud-platform-extension-suite/): we have now the "Extension Suite" and just "runtimes" 
-* News on SAP Cloud Platform Management, namely [CLI](https://blogs.sap.com/2020/09/15/introducing-cloud-management-tools-cli-and-apis-for-sap-cloud-platform-part-1/) and [Service APIs](https://blogs.sap.com/2020/09/15/introducing-cloud-management-tools-cli-and-apis-for-sap-cloud-platform-part-2/)
-* Examples for deploying UI5 apps to SAP Cloud Platform: [GitHub Repo](https://github.com/SAP-samples/multi-cloud-html5-apps-samples)
-* [DevOps Services and SAP Cloud Platform](https://blogs.sap.com/2020/09/07/achieve-continuous-integration-and-delivery-using-devops-services-in-sap-cloud-platform/)
-
-### Cloud Application Programing Model
-* [CAP Interview](https://podcast.opensap.info/close-the-gap/2020/09/15/apps-entwickeln-leicht-gemacht-das-sap-cloud-applikation-programming-model/) on "Close the Gap" - Target audience not hardcore techies but suitable for a first glance into the topic and maybe for "managers"
-* [Analytical annotations and CAP](https://blogs.sap.com/2020/09/10/adding-a-donut-chart-on-top-of-cap-service/)
-
-### Kyma
-* Sneak Peek: Cool talk about SAP's internal experience with Kyma at [DSAG Live](https://dsaglive.plazz.net/)
-
-### Misc
-* From the "ABAP's not dead" area 
-    * [RAP Generator](https://blogs.sap.com/2020/05/17/the-rap-generator/) - now with click through guide
-    * [CDS Entities](https://blogs.sap.com/2020/09/02/a-new-generation-of-cds-views-cds-view-entities/) as successor of CDS Views 
-
-## Microsoft Universe
-
-### Azure Functions/Serverless
-* [Portable Azure Functions](https://dev.to/lynnaloo/the-curious-developer-s-guide-to-portable-azure-functions-109m)
-    * [Keda 2.0 beta](https://keda.sh/blog/keda-2.0-beta/) is out
-* [Refactoring Express apps to serverless](https://dev.to/azure/refactor-node-js-and-express-apis-to-serverless-free-workshop-p8f)
-* [Azure Functions for Ops](https://blog.victorsilva.com.uy/functions-swiss-army-ops/)
-
-### DevOps
-* [Demystifying ARM Templates](https://dev.to/azure/demystifying-arm-templates-introduction-to-arm-templates-4anh)
-* [Azure Biceps](https://build5nines.com/get-started-with-azure-bicep/) - an alternative to ARM templates as declarative Domain Specific Language 
-    * [Example for IoT Hub](https://build5nines.com/azure-bicep-create-iot-hub-and-device-provisioning-service-dps/)
-    * [Roadmap for the next Quarter](https://build5nines.com/azure-bicep-roadmap-q420-into-2021/)
-
-### Misc
-* [How Microsoft designs APIs](https://youtu.be/tx09RSNa154)
-* New kid on the block on resources about Azure [Azurecrazy](https://azurecrazy.com/)
+* YouTube: [Link]() 
+* AnchorFM (Audio Stream): [Link]() 
 
 ## SAP and Microsoft - Combining both worlds
-* Nothing crossed my path this week :-(
-
-## Events and Education
-* MSIgnite - Nice to know: [Virtual Roundtables](https://twitter.com/marmaleki/status/1305552266489806849?s=21): Opportunity to talk to the engineering team
+* [Azure AD B2C and CAP - Custom defined authentication](https://twitter.com/wolf_gregor/status/1307715629839941632?s=20)
+* [Integrate SAP Data Warehouse Cloud with Azure Active Directory](https://blogs.sap.com/2020/09/19/integrate-sap-data-warehouse-cloud-with-azure-active-directory/)
+* [Last action hero with adaptive cards for cloud demo system ES5](https://blogs.sap.com/2020/09/18/last-action-hero-with-adaptive-cards-for-cloud-demo-system-es5/)
+    * [GitHub Repo](https://github.com/MartinPankraz/SAPES5-Approvals-PowerAutomate)
 
 ## Productivity & Developer Experience
-* [WSL2 Backport to Windows 1903 and 1909](https://devblogs.microsoft.com/commandline/wsl-2-support-is-coming-to-windows-10-versions-1903-and-1909/)
-* [Visual Studio Codespaces consolidated into GitHub Codespaces](https://devblogs.microsoft.com/visualstudio/visual-studio-codespaces-is-consolidating-into-github-codespaces/)
+* [GitHub CLI](https://github.blog/2020-09-17-github-cli-1-0-is-now-available/) is GA
+* Take a look at the Inspire news about Teams: [Link](https://news.microsoft.com/ignite-2020-book-of-news/#4101-new-calling-features-are-coming-soon-to-microsoft-teams)
 
-## To follow
-* [Christian Michel](https://twitter.com/cwmichel) - Close the Gap (SAP Podcast)
+## Microsoft Ignite - Special Edition
+* [Keynote](https://youtu.be/FoIOFEp2HiY)
+* [Book of News](https://news.microsoft.com/ignite-2020-book-of-news/)
+
+### Azure AI
+* Cognitive Services with Access to Private Endpoints - Secure Data Access: [Link](https://news.microsoft.com/ignite-2020-book-of-news/#111-azure-cognitive-search-updates-private-endpoints-and-managed-identities)
+* Cognitive Services with new features like anomaly detection: [Link](https://news.microsoft.com/ignite-2020-book-of-news/#112-azure-cognitive-services-updates-metrics-advisor-preview-spatial-analysis-preview-anomaly-detector-ga)
+
+### Azure Data
+* Serverless Plan for CosmosDB e.g. for small workloads like dev environments: [Link](https://news.microsoft.com/ignite-2020-book-of-news/#122-azure-cosmos-db-now-offers-serverless-option-for-database-operations-with-small-workloads-)
+* Usage-based optimization of Synapse (DWH + BigData Analytics) for PowerBI: [Link](https://news.microsoft.com/ignite-2020-book-of-news/#126-usage-based-optimization-with-azure-synapse-and-power-bi-)
+
+### Development
+* Preview of [.NET 5](https://devblogs.microsoft.com/dotnet/introducing-net-5/), GA in November: [Link](https://news.microsoft.com/ignite-2020-book-of-news/#141-net-5-release-candidate-is-now-available-)
+* Azure Communication Services in Public Preview: [Link](https://news.microsoft.com/ignite-2020-book-of-news/#143-azure-communication-services-enables-you-to-build-rich-communication-experiences-with-the-same-secure-platform-as-microsoft-teams-)
+* New AKS Features (Start + Stop, Policiy AddOn): [Link](https://news.microsoft.com/ignite-2020-book-of-news/#145-azure-kubernetes-service-aks-updates-include-ability-to-easily-pause-clusters-to-save-costs-and-enforce-policies-at-scale-)
+* Hosting flexibility + new designer for Logic Apps: [Link](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/new-logic-apps-runtime-performance-and-developer-improvements/ba-p/1645335)
+* Private Azure Marketplace - curated solutions for a company: [Link](https://news.microsoft.com/ignite-2020-book-of-news/#149-private-azure-marketplace-in-public-preview)
+* Azure Functions live: Private Beta of Azure API Connections aka use the same Connectors as for Logic Apps in Azure Functions [Link](https://youtu.be/WjwNPCrkqms?t=806)
+
+### Power Platform
+* Enahcned RPA and Power Platform (Softomotive aquisition) [Link](https://news.microsoft.com/ignite-2020-book-of-news/#211-microsoft-power-automate-desktop-delivers-robotic-process-automation-for-users-)
+* Enhanced integration of PowerBI in Teams: [Link](https://news.microsoft.com/ignite-2020-book-of-news/#212-updates-to-power-bi-in-teams-and-new-power-bi-premium-per-user-for-enhanced-access-to-data-insights-competitive-pricing)
+* Bridging the gap - Bringing together Power Platform and GitHub, API Management and Azure Bot Framework [Link](https://news.microsoft.com/ignite-2020-book-of-news/#213-power-platform-low-code-updates-for-professional-developers-in-public-preview-for-github-and-azure)
+
+### Industry Cloud
+* Industry Cloud for Healthcare (what?): [Link](https://news.microsoft.com/ignite-2020-book-of-news/#321-microsoft-cloud-for-healthcare-the-companys-first-industry-specific-cloud-available-end-of-october)
 
 ## Disclaimer
 The podcast as well as the content of the repository represent my opinion and especially does not represent the one of my employer, SAP, Microsoft or DSAG. 
