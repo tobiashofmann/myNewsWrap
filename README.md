@@ -1,8 +1,8 @@
 # Episode 04: myNewsWrap – SAP and Microsoft 
 
 ## Links to Video and Podcast
-* YouTube: [Link]() 
-* AnchorFM (Audio Stream): [Link]() 
+* YouTube: [Link](https://youtu.be/m0dhVWn2uCY) 
+* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-04---MS-Ignite-Special-Edition-ek5gqq) 
 
 ## SAP and Microsoft - Combining both worlds
 * [Azure AD B2C and CAP - Custom defined authentication](https://twitter.com/wolf_gregor/status/1307715629839941632?s=20)
@@ -29,15 +29,15 @@
 ### Development
 * Preview of [.NET 5](https://devblogs.microsoft.com/dotnet/introducing-net-5/), GA in November: [Link](https://news.microsoft.com/ignite-2020-book-of-news/#141-net-5-release-candidate-is-now-available-)
 * Azure Communication Services in Public Preview: [Link](https://news.microsoft.com/ignite-2020-book-of-news/#143-azure-communication-services-enables-you-to-build-rich-communication-experiences-with-the-same-secure-platform-as-microsoft-teams-)
-* New AKS Features (Start + Stop, Policiy AddOn): [Link](https://news.microsoft.com/ignite-2020-book-of-news/#145-azure-kubernetes-service-aks-updates-include-ability-to-easily-pause-clusters-to-save-costs-and-enforce-policies-at-scale-)
+* New AKS Features (Start + Stop, Policy AddOn): [Link](https://news.microsoft.com/ignite-2020-book-of-news/#145-azure-kubernetes-service-aks-updates-include-ability-to-easily-pause-clusters-to-save-costs-and-enforce-policies-at-scale-)
 * Hosting flexibility + new designer for Logic Apps: [Link](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/new-logic-apps-runtime-performance-and-developer-improvements/ba-p/1645335)
 * Private Azure Marketplace - curated solutions for a company: [Link](https://news.microsoft.com/ignite-2020-book-of-news/#149-private-azure-marketplace-in-public-preview)
-* Azure Functions live: Private Beta of Azure API Connections aka use the same Connectors as for Logic Apps in Azure Functions [Link](https://youtu.be/WjwNPCrkqms?t=806)
+* Azure Functions live: Private Beta of Azure API Connections aka use the same Connectors as for Logic Apps in Azure Functions: [Link](https://youtu.be/WjwNPCrkqms?t=806)
 
 ### Power Platform
-* Enahcned RPA and Power Platform (Softomotive aquisition) [Link](https://news.microsoft.com/ignite-2020-book-of-news/#211-microsoft-power-automate-desktop-delivers-robotic-process-automation-for-users-)
+* Enhanced RPA and Power Platform (Softomotive acquisition): [Link](https://news.microsoft.com/ignite-2020-book-of-news/#211-microsoft-power-automate-desktop-delivers-robotic-process-automation-for-users-)
 * Enhanced integration of PowerBI in Teams: [Link](https://news.microsoft.com/ignite-2020-book-of-news/#212-updates-to-power-bi-in-teams-and-new-power-bi-premium-per-user-for-enhanced-access-to-data-insights-competitive-pricing)
-* Bridging the gap - Bringing together Power Platform and GitHub, API Management and Azure Bot Framework [Link](https://news.microsoft.com/ignite-2020-book-of-news/#213-power-platform-low-code-updates-for-professional-developers-in-public-preview-for-github-and-azure)
+* Bridging the gap - Bringing together Power Platform and GitHub, API Management and Azure Bot Framework: [Link](https://news.microsoft.com/ignite-2020-book-of-news/#213-power-platform-low-code-updates-for-professional-developers-in-public-preview-for-github-and-azure)
 
 ### Industry Cloud
 * Industry Cloud for Healthcare (what?): [Link](https://news.microsoft.com/ignite-2020-book-of-news/#321-microsoft-cloud-for-healthcare-the-companys-first-industry-specific-cloud-available-end-of-october)
