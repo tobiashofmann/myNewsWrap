@@ -8,7 +8,7 @@
 
 ### General
 * SAP acquires [Emarsys](https://news.sap.com/2020/10/sap-to-acquire-emarsys/)
-    * John Reed's take on it: [link](https://diginomica.com/sap-doubles-down-cx-why-sap-acquired-emarsys-and-issues-track-sap-cx-live)
+    * Jon Reed's take on it: [link](https://diginomica.com/sap-doubles-down-cx-why-sap-acquired-emarsys-and-issues-track-sap-cx-live)
 * The wheel in the sky keeps on turning: [who is it this time?](https://news.sap.com/2020/10/john-wookey-rejoins-sap-lead-intelligent-spend-business-network/) 
 
 ### SAP Cloud Platform
