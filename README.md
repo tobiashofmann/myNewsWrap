@@ -1,63 +1,75 @@
-# Episode 05: myNewsWrap – SAP and Microsoft 
+# Episode 06: myNewsWrap – SAP and Microsoft 
 
 ## Links to Video and Podcast
-* YouTube: [Link](https://youtu.be/fCrkLiJjvR4) 
-* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-05-ekge90) 
+* YouTube: [Link]() 
+* AnchorFM (Audio Stream): [Link]() 
 
 ## SAP Universe
 
 ### General
-* Inclusiveness@SAP
-    * [Blog](https://blogs.sap.com/2020/09/11/making-the-software-industry-a-little-more-inclusive/) by Jürgen Müller
-    * [Infos on help.sap.com](https://help.sap.com/doc/b0322267728e48a28b0c8ee7dd1ab4c7/1.0/en-US/Inclusive%20Language%20Guidelines.pdf)
-    * Thoughts about [impact?](https://blogs.sap.com/2020/09/29/sap-abandones-some-racist-language-and-no-one-seems-to-care/) 
+* SAP acquires [Emarsys](https://news.sap.com/2020/10/sap-to-acquire-emarsys/)
+    * John Reed's take on it: [link](https://news.sap.com/2020/10/sap-to-acquire-emarsys/)
+* The wheel in the sky keeps on turning: [who is it this time?](https://news.sap.com/2020/10/john-wookey-rejoins-sap-lead-intelligent-spend-business-network/) 
 
 ### SAP Cloud Platform
-* Updated timeline on [SAP Integration in the Cloud](https://www.sap.com/documents/2020/02/520ea921-847d-0010-87a3-c30de2ffd8ff.html)
-* [Serverless Confusion](https://blogs.sap.com/2020/09/21/sap-cloud-platform-extension-factory-serverless-runtime-function-as-a-service-faas/)
+* Another week, another blog by Tobias Hofmann on SCP: [Link](https://www.itsfullofstars.de/2020/10/core-values-of-scp-services/)
+* [News on SCP Discovery Center](https://blogs.sap.com/2020/10/01/whats-new-in-sap-cloud-platform-discovery-center/)
+    * Attention you will not be able to access everything: [Link](https://twitter.com/ceedee666/status/1311670538079698946?s=21)
+* OAuth setup for [CPI and Cloud Foundry](https://blogs.sap.com/2020/10/01/oauth-setup-for-cloud-integration-in-cloud-foundry-environment/)
+* Developing Secure Applications in a Multicloud Environment: [UAA for Authorisation](https://blogs.sap.com/2020/10/05/developing-secure-applications-in-a-multicloud-environment-uaa-for-authorisation/)
+* [Serverless SAP Fiori Apps](https://blogs.sap.com/2020/10/02/serverless-sap-fiori-apps-in-sap-cloud-platform/) ... well kind of servereless
 
 ### Cloud Application Programing Model
-* Update on PostgreSQL integration - [CRUD support](https://twitter.com/wolf_gregor/status/1309828836431929350?s=20)
-* Coming up: Talk at [sitBCN](https://twitter.com/wolf_gregor/status/1310606391284051975?s=20) 
+* Deploy CAP app to Kyma: [Link](https://blogs.sap.com/2020/10/02/run-and-deploy-a-cap-business-application-on-the-kyma-runtime/)
+    * GitHub [repo](https://sap-samples.github.io/cloud-cap-risk-management/Kyma/)
 
 ### Kyma
-* Here we go: Kyma has a [trial](https://twitter.com/mado0803/status/1309534133392150529?s=20)
-    * two points to take care: role collection and where to get the kubectl config
-* How to stay in touch with the [Kyma Team](https://blogs.sap.com/2020/10/01/staying-in-touch-with-the-kyma-team/)
-* Use case: [Extending SAP Marketing Cloud with Kyma](https://blogs.sap.com/2020/09/30/use-sap-cloud-platform-kyma-runtime-to-extend-sap-marketing-cloud/)
+* Devtoberfest - [Kyma week](https://www.youtube.com/watch?v=4tWH3Jl9Pss&list=PL6RpkC85SLQC33__v6BFLDcV32uy5D3Rz)
+* [Kyma and CAP](https://youtu.be/kwKr4JbscvY) by Thomas Jung
+* Tutorial on [developers.sap.com](https://developers.sap.com/group.cp-kyma-get-started.html)
+* Kyma is now complete - Connection to CX systems: [Link](https://blogs.sap.com/2020/10/09/kyma-runtime-available-in-trial-and-now-we-are-complete/)
+* Of course the CAP Beershop (postgresql) is deployed to [Kyma](https://github.com/gregorwolf/pg-beershop#deploy-to-kyma)
 
 ### Steampunk
-* Basic Overview Article on [SAP Insider](https://www.sapinsideronline.com/articles/make-the-move-to-sap-cloud-platform-abap-environment-with-confidence/)
-* [XCO Library](https://blogs.sap.com/2020/09/21/introducing-the-xco-library-cloud-platform-edition/)
-* [RAP Code Along](https://github.com/soschlegel/abap.livecoding) by [Sören Schlegel](https://github.com/soschlegel) 
+* [REST endpoint for abapGIT in ADT](https://blogs.sap.com/2020/10/07/inside-steampunk-vital-parts-of-steampunks-abapgit/)
+    * GitHub [repo](https://github.com/SAP/project-odense)
 
 ### Misc
-* SAP Leonardo is "dead": [Link](https://e3zine.com/e-3-interview-with-sap-cto-jurgen-muller/)
-* SAP Developer News on [YouTube](https://youtu.be/sS2sFknfkHY)
+* SAP Enterprise Messaging AddOn [Howto](https://blogs.sap.com/2020/10/08/sap-enterprise-messaging-for-sap-erp-howto-guide-part-2-first-use-case/)
+* API Hub now includes [SAP S/4HANA on prem](https://blogs.sap.com/2020/10/07/announcement-publication-of-sap-s-4hana-apis-on-api-business-hub/)
 
 ## Microsoft Universe
 
+### General
+* Not the luckiest two weeks for Microsoft: [another round of outages](https://www.zdnet.com/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/)
+
 ### Azure Functions/Serverless
-* Custom Binding to validate [JWT tokens](https://hexmaster.nl/posts/az-func-jwt-validator-binding/)
-* Combining [GraphQL and Serverless](https://dev.to/azure/graphql-and-serverless-walk-into-a-bar-a-recipe-to-infinitely-scale-apis-1gcm)
-* [Lifting your serverless app to on-premises with KEDA and K8s](https://medium.com/microsoftazure/lifting-function-to-kubernetes-with-keda-e24de86fca2e)
-* High Availability Patterns for [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-geo-disaster-recovery)
+* Handle failed actions in [Azure Logic Apps](https://blog.atwork.at/post/Handle-failed-actions-in-Azure-Logic-Apps)
+* Serverless Days Warsaw: [Focus Topic Operations](https://www.youtube.com/watch?v=sMo7sOKVN1Q&list=PLp4wchugWzHu2QIo2hQh4wfYqIGgYYFcb)
 
 ### Misc
-* Deep Dive on [ACI](https://twitter.com/azurefriday/status/1310620920025722881?s=20)
-* [Bridge to K8s - GA](https://devblogs.microsoft.com/visualstudio/bridge-to-kubernetes-ga/)
+* [Kubernetes Learning Path](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/)
+* Blog worth reading on lessons learned about K8s: [Link](https://blogs.sap.com/2020/10/05/kubernetes-to-the-limit-10-things-we-learned-in-our-sap-business-application-studio-journey/)
+* DevOps with [GitHub Actions and ARM](https://twitter.com/thedevopslab/status/1311726618709164032?s=21)
+
 
 ## SAP and Microsoft - Combining both worlds
-* SAP on Azure Webcast - Demo on combining SAP CP Business Rules, Power Apps, Power Automate and SAP Business Suite by Martin Pankraz: [Link](https://youtu.be/Nha5uwE6K9Q?t=1756)
-* [Blog Series Posting Documents to SharePoint](https://blogs.sap.com/2020/09/29/blog-series-posting-documents-to-sharepoint/)
+* [Principal Propagation - part 2](https://blogs.sap.com/2020/10/01/principal-propagation-in-a-multi-cloud-solution-between-microsoft-azure-and-sap-cloud-platform-scp-part-ii)
 
 ## Events and Education
-* Update on [SAP TechEd](https://events.sap.com/teched-global/en/home)
-* Create Serverless on [YouTube](https://youtu.be/mDnpz-gFFc8)
-* [Kubernetes and Container Orchestration 101](https://youtu.be/3RTvoI-A7UQ)
+* [DSAGLive](https://dsaglive.plazz.net/)
 
 ## Productivity & Developer Experience
-* Make the best out of [Windows Terminal](https://twitter.com/unixterminal/status/1310610408533827585?s=20) :-)
+* [GitHub Code Scanning is GA](https://github.blog/2020-09-30-code-scanning-is-now-available/)
+* [Windos Terminal - first steps](https://www.hanselman.com/blog/HowToUseOpenResizeAndSplitPanesInTheWindowsTerminal.aspx)
+* The power of [WSL2](https://blogs.sap.com/2020/09/30/installing-sap-hana-express-edition-into-wsl2-windows-subsystem-for-linux/)
+* [Teams Reflection App](https://github.com/OfficeDev/Microsoft-Teams-App-Reflect)
+
+## To Follow
+* [Divya Mary](https://people.sap.com/divya.mary)
+
+## Something light hearted before the weekend
+* [CX @ Amazon](https://twitter.com/tobiashofmann/status/1312411761073623041?s=21)
 
 ## Disclaimer
 The podcast as well as the content of the repository represent my opinion and especially does not represent the one of my employer, SAP, Microsoft or DSAG. 
