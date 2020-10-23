@@ -1,8 +1,8 @@
 # Episode 08: myNewsWrap – SAP and Microsoft 
 
 ## Links to Video and Podcast
-* YouTube: [Link](https://github.com/lechnerc77/myNewsWrap/tree/episode08) 
-* AnchorFM (Audio Stream): [Link]() 
+* YouTube: [Link](https://youtu.be/5xxZpV6jft0) 
+* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-08-elfk14) 
 
 ## SAP Universe
 
