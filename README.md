@@ -1,8 +1,8 @@
 # Episode 09: myNewsWrap – SAP and Microsoft 
 
 ## Links to Video and Podcast
-* YouTube: [Link]() 
-* AnchorFM (Audio Stream): [Link]() 
+* YouTube: [Link](https://youtu.be/Vm4Rk_a6Nks) 
+* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-09-elpr72) 
 
 ## SAP Universe
 
@@ -11,8 +11,8 @@
     * Official SAP News: [SAP Announces Third Quarter and First Nine Months 2020 Results](https://news.sap.com/2020/10/sap-announces-third-quarter-and-first-nine-months-2020-results/)
     * Diginomica: [SAP ditches 2023 'ambition' as Q3 FY2020 signals overall weak demand](https://diginomica.com/sap-ditches-2023-ambition-q3-fy2020-signals-overall-weak-demand)
     * WiWo: [Auch SAP ist nicht immun gegen Corona](https://www.wiwo.de/unternehmen/it/walldorfer-softwarekonzern-auch-sap-ist-nicht-immun-gegen-corona/26307900.html)
-    * Diginomica - reloaded: (Four problems SAP has to address as it navigates headwinds)[https://diginomica.com/four-problems-sap-has-address-it-navigates-headwinds]
-    * Handelsblatt Artikel: (SAP muss bei der Cloud Defizite aufholen – das wird teuer)[https://app.handelsblatt.com/technik/it-tk/analyse-sap-muss-bei-der-cloud-defizite-aufholen-das-wird-teuer/26309730.html?share=twitter&ticket=ST-552162-Lfntzt5kpFH7d5dtt0UI-ap4]
+    * Diginomica - reloaded: [Four problems SAP has to address as it navigates headwinds](https://diginomica.com/four-problems-sap-has-address-it-navigates-headwinds)
+    * Handelsblatt Artikel: [SAP muss bei der Cloud Defizite aufholen – das wird teuer](https://app.handelsblatt.com/technik/it-tk/analyse-sap-muss-bei-der-cloud-defizite-aufholen-das-wird-teuer/26309730.html?share=twitter&ticket=ST-552162-Lfntzt5kpFH7d5dtt0UI-ap4)
     * Handelsblatt Interview [SAP-Chef Klein: „Waren uns bewusst, dass die Reaktion der Aktionäre so ausfallen könnte“](https://www.handelsblatt.com/technik/it-internet/interview-sap-chef-klein-waren-uns-bewusst-dass-die-reaktion-der-aktionaere-so-ausfallen-koennte/26308968.html?social=ln-hb_hk-ph-ne-or-&ticket=ST-552149-xzpzfplyRiekBhkfBFgC-ap4)
 * [SAP throws the CX Glove](https://customerthink.com/sap-throws-the-cx-glove/)
 
