@@ -1,59 +1,58 @@
-# Episode 11: myNewsWrap – SAP and Microsoft 
+# Episode 12: myNewsWrap – SAP and Microsoft 
 
 ## Links to Video and Podcast
-* YouTube: [Link](https://youtu.be/-XVW_fNE-7M) 
-* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-11-eme8j8) 
+* YouTube: [Link](https://youtu.be/CCWxx5GwHv0) 
+* AnchorFM (Audio Stream): [Link]() 
 
 ## SAP Universe
 
 ### General
-* Diginomica: [16 questions SAP needs to answer for its American audience](https://diginomica.com/16-questions-sap-needs-answer-its-american-audience)
-* [Devtoberfest Contest Voting - Blog](https://blogs.sap.com/2020/11/09/devtoberfest-contest-voting/)
-    * [Voting per se](https://answers.sap.com/questions/13184551/devtoberfest-2020-contest-voting.html)
-
+* [5 Takeaways from ASUG’s Conversation with SAP CEO Christian Klein](https://www.asug.com/insights/5-takeaways-from-asugs-conversation-with-sap-ceo-christian-klein)
+* [DSAG-SAP-Visionspapier: Digitaler Wandel](https://www.dsag.de/dsag-sap-visionspapier-digitaler-wandel)
 ### SAP Cloud Platform
-* [Using Postman for API Testing with XSUAA](https://youtu.be/FqVekMHviTc) - nice format
-
-### Cloud Application Programing Model
 * No news this week
 
+### Cloud Application Programing Model
+* [Getting started with CAP on PostgreSQL (Node.js)](https://blogs.sap.com/2020/11/16/getting-started-with-cap-on-postgresql-node.js/)
+
 ### Kyma
-* Issues with deleting namespaces? Maybe this Q&A may [help](https://answers.sap.com/questions/12957396/i-deleted-a-kyma-namespace-and-it-is-struck-in-sta.html)
+* [Close The Gap - Skalierbare Cloud Anwendungen: Kyma runtime](https://podcast.opensap.info/close-the-gap/2020/11/17/skalierbare-cloud-anwendungen-kyma-runtime/)
 
 ### Steampunk
-* No News this week
-
+* New release with starting multi-tenancy support - [SAP Cloud Platform ABAP Environment – Release 2011](https://blogs.sap.com/2020/11/20/sap-cloud-platform-abap-environment-release-2011/)
 
 ## Microsoft Universe
 
 ### General
-* No News this week
+* No news this week
 
 ### Azure Functions/Serverless
-* Azure Functions - [nodeJS14 preview](https://github.com/Azure/azure-functions-nodejs-worker/wiki/Azure-Functions-Node.js-14-preview)
-* [Hands on retry policy with CosmosDB](https://dev.to/shibayan/a-quick-review-of-the-azure-functions-new-feature-retry-policy-p56)
-* Durable Functions - [Naming best practices](https://dev.to/azure/best-practice-when-naming-durable-functions-in-c-2i0o)
-* [Dev Show: How to deal with persistence in Serverless applications?](https://youtu.be/EF5a3oSJU1s)
-* [Keda 2.0 is GA](https://keda.sh/blog/keda-2.0-release/)
+* [Azure Functions with Custom APEX Domain, SSL Certificate, Azure DNS and GitHub Actions (4 Part Series)](https://dev.to/azure/deploying-azure-functions-via-github-actions-without-publish-profile-473p)
+* [Azure Alerts -> Secure Webhook -> Azure Functions with Authentication](https://dev.to/superjohn140/azure-alerts-secure-webhook-azure-functions-with-authentication-364)
+* [Azure Resource Change Reporting using the Resource Change History API, Azure Functions and Blazor](https://www.wesleyhaakman.org/azure-resource-change-reporting-azure-functions-and-blazor/)
+* [Build REST APIs in three steps with API Management and Azure Functions](https://techcommunity.microsoft.com/t5/apps-on-azure/build-rest-apis-in-three-steps-with-api-management-and-azure/ba-p/1869627)
 
 ### Misc
-* [.NET 5.0 is GA](https://devblogs.microsoft.com/dotnet/announcing-net-5-0/)
-* [Things to consider when running visual tests in CI/CD pipelines: Azure Devops & GitHub Actions](https://devblogs.microsoft.com/devops/things-to-consider-when-running-visual-tests-in-ci-cd-pipelines-azure-devops-github-actions-part-2/)
-* Something is coming in the Microsoft [DevOps area](https://twitter.com/AbelSquidHead/status/1325846080609685504) - any hints? 
+There was [KubeCon and CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+* [Cloud Native Survey 2020](https://www.cncf.io/blog/2020/11/17/cloud-native-survey-2020-containers-in-production-jump-300-from-our-first-survey/)
+* [Announcing the Cloud Native Security White Paper](https://www.cncf.io/blog/2020/11/18/announcing-the-cloud-native-security-white-paper/)
 
 ## SAP and Microsoft - Combining both worlds
-* [Power Platform - Build your SAP Powerhouse](https://carstengroth.wordpress.com/2020/10/15/power-platform-build-your-sap-powerhouse/)
-* [Broadcast CPI errors to Azure Monitor via SCP Alert notifications](https://blogs.sap.com/2020/11/11/broadcast-cpi-errors-to-azure-monitor-via-scp-alert-notifications/)
-* [Connecting to IoT devices using Azure IoT Hub and visualizing the data using SAP HANA Cloud & Cloud Analytics](https://blogs.sap.com/2020/11/01/connecting-to-iot-devices-using-azure-iot-hub-and-visualizing-the-data-using-sap-hana-cloud-cloud-analytics/)
-* [Quickly setting the SAP Action URI for calling (t)RFCs from Azure Logic Apps](https://www.linkedin.com/pulse/quickly-setting-sap-action-uri-calling-trfcs-from-azure-david-burg/)
-* [SAP Application Server AutoScaling in Azure](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/sap-application-server-autoscaling-in-azure/ba-p/1845306)
+* [SAP GUI-based desktop recording in Power Automate Desktop](https://www.linkedin.com/posts/activity-6733688514380222464-LecG/)
+* [SAP on Azure - Azure Cost Management](https://twitter.com/hobru/status/1327501025843044353)
+* [SAP CPI with Azure DevOps](https://figaf.com/sap-cpi-with-azure-devops/) - pay attention, the post is also used as a segway to a product (not my intention to promote this product)
 
 ## Events and Education
-* [SAP TechEd 2020](https://events.sapteched.com/pages/sap/sapteched2020/index) ... finally 
+* [DSAG-Technologietage 2021 virtuell](https://dsagtechtage.plazz.net/) - Hyper Hyper ;-)
+* SAP TechEd 2020 - Unsure what to watch? 
+    * [SAP TechEd Developer Keynote DK100 – The Story](https://blogs.sap.com/2020/11/19/sap-teched-developer-keynote-dk100-the-story/)
+    * Agenda by Thomas Jung - [My SAP TechEd 2020 – An Agenda From the Viewpoint of a Developer Manager](https://blogs.sap.com/2020/11/13/my-sap-teched-2020-an-agenda-from-the-viewpoint-of-a-developer-manager/)
+    * DJ Adam's proposals - [My SAP TechEd 2020 – what I’m looking forward to](https://blogs.sap.com/2020/11/11/my-sap-teched-2020-what-im-looking-forward-to/)
+    * Marius Obert's recommendations - [Marius’ SAP TechEd 2020 Guide for UI Folks](https://blogs.sap.com/2020/11/17/marius-sap-teched-2020-guide-for-ui-folks/)
+    * A bit of ABAP - [ABAP Platform Sessions at SAP TechEd 2020](https://blogs.sap.com/2020/11/18/abap-platform-sessions-at-sap-teched-2020/)
 
 ## Productivity & Developer Experience
-* [Renameing GitHub Master branch to Main](https://azurefabric.com/renaming-my-github-master-branch-to-main-the-it-pro-guide/)
-* [PowerShell 7.1 is GA](https://devblogs.microsoft.com/powershell/announcing-powershell-7-1/) - This time also via Windows Store!
+* [Overwhelmed with Programming? Here's small things to help - Computer Stuff They Didn't Teach You #14](https://youtu.be/5CmjW_8ief4)
 
 ## Disclaimer
 The podcast as well as the content of the repository represent my opinion and especially does not represent the one of my employer, SAP, Microsoft or DSAG. 
