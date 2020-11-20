@@ -2,7 +2,7 @@
 
 ## Links to Video and Podcast
 * YouTube: [Link](https://youtu.be/CCWxx5GwHv0) 
-* AnchorFM (Audio Stream): [Link]() 
+* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-12-emogqg) 
 
 ## SAP Universe
 
