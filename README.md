@@ -2,8 +2,8 @@
 
 ## Links to Video and Podcast
 
-* YouTube: [Link]() 
-* AnchorFM (Audio Stream): [Link]()
+* YouTube: [Link](https://youtu.be/jmif8ezI3TA) 
+* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-SAP-TechEd-Special-Edition-Episode-15-enlkqd)
 
 ## SAP TechEd 2021
 
@@ -24,7 +24,7 @@
   * Extend SAP HANA On-Premise to SAP HANA Cloud
   * SAP Analytics Cloud Enhancements
 * Integration
-  * SAP CloudPlatform Integration SUite Enhancements
+  * SAP Cloud Platform Integration SUite Enhancements
   * SAP One Domain Model for First Objects
   * SAP API Business Hub new User Experience
 
@@ -33,4 +33,5 @@
 Thomas Jung: _There is no one single skill except maybe the skill of learning itself. Our industry is constantly changing and growing. The best developers are the ones that keep their skill sets up to date._
 
 ## Disclaimer
+
 The podcast as well as the content of the repository represent my opinion and especially does not represent the one of my employer, SAP, Microsoft or DSAG.
