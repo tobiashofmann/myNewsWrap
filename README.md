@@ -5,7 +5,7 @@
 * YouTube: [Link](https://youtu.be/jmif8ezI3TA) 
 * AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-SAP-TechEd-Special-Edition-Episode-15-enlkqd)
 
-## SAP TechEd 2021
+## SAP TechEd 2020
 
 * [Book of News](https://sap.com/teched-news)
 * [CIO Guide: SAP’s Hybrid Integration Platform for the Intelligent Enterprise](https://www.sap.com/documents/2018/06/de3238a0-077d-0010-87a3-c30de2ffd8ff.html)
