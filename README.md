@@ -1,79 +1,74 @@
-# Episode 16: myNewsWrap – SAP and Microsoft
+# Episode 17: myNewsWrap – SAP and Microsoft
 
 ## Links to Video and Podcast
 
-* YouTube: [Link](https://youtu.be/uN-sPkkxMo8)
-* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-16-envb3c)
+* YouTube: [Link](https://youtu.be/DHA8L_z6MTE)
+* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-17-ep0dff)
 
 ## SAP Universe
 
 ### General
 
-* Recap SAP TechEd by Tobias Hofmann: [No milk today, it wasn’t always so the company was gay, we’d turn night into day](https://www.itsfullofstars.de/2020/12/no-milk-today-it-wasnt-always-so-the-company-was-gay-wed-turn-night-into-day/)
-* Learning@SAP by Tobias Hofmann: [We don’t need no education](https://www.itsfullofstars.de/2020/12/we-dont-need-no-education/)
-* [SAP Hires New Chief Design Officer](https://news.sap.com/2020/12/benedikt-lehnert-chief-design-officer/)
+* [RISE with SAP](https://www.sap.com/about/events/rise-with-sap.html) - Save the date
 
 ### SAP Cloud Platform
 
-* [Get Started with your SAP Cloud Platform Enterprise Account (Onboarding)](https://blogs.sap.com/2020/12/14/get-started-with-your-sap-cloud-platform-enterprise-account/)
-* [Run faster with SAP Cloud Platform’s new CLI-based JSON output](https://blogs.sap.com/2020/12/09/run-faster-with-sap-cloud-platforms-new-cli-based-json-output/)
+* [Continuous Integration & Deployment on SAP Cloud Platform](https://people.sap.com/marco.lommatzsch#content)
+* [SCP CI/CD - support on-prem Git repos](https://twitter.com/IrinaKirilova3/status/1349406729294000128)
+* [Migrating SAP Fiori Applications from Neo to Cloud Foundry using SAP BAS](https://blogs.sap.com/2021/01/14/migrating-sap-fiori-applications-from-neo-to-cloud-foundry-using-sap-business-application-studio/)
 
 ### Cloud Application Programing Model
 
-* [New CAP Release - with some goodies](https://twitter.com/IwonaHahn/status/1335895533999845376)
-* [Developing a multi-experience app with MDK and CAP (Node.js)](https://blogs.sap.com/2020/12/10/developing-a-multi-experience-app-with-mdk-and-cap-node.js/) - also see first comment!
-* [Deploying a CAP Application to SAP Cloud Platform, Kyma runtime & connecting an iOS app](https://blogs.sap.com/2020/12/17/deploying-a-cap-application-to-sap-cloud-platform-kyma-runtime-connecting-an-ios-app/) - VERY basic
+* [Consuming a REST Service with the SAP Cloud Application Programming Model](https://blogs.sap.com/2020/12/27/consuming-a-rest-service-with-the-sap-cloud-application-programming-model/)
+* [New SAP Cloud Application Programming Model Sample for Many-to-Many Relationships and Fiori Annotations](https://blogs.sap.com/2020/12/21/new-sap-cloud-application-programming-model-sample-for-many-to-many-relationships-and-fiori-annotations/)
+* [PlantUML and CAP](https://github.com/hschaefer123/cap-plantuml)
 
 ### Kyma
 
-* New features in SCP: [Leverage monitoring in Kyma runtime to better operate and troubleshoot your business extensions](https://blogs.sap.com/2020/12/14/leverage-monitoring-in-kyma-runtime-to-better-operate-and-troubleshoot-your-business-extensions/)
-* Blog series: [Kyma for Dymmies](https://blogs.sap.com/2020/12/10/kyma-for-dymmies-2-first-simple-microservice-with-security/)
-
-### Steampunk
-
-* [RAP - wait for 2021](https://twitter.com/hermanns_m/status/1338773721994178561?s=20)
+* [CI/CD with Kyma Functions](https://github.com/abbi-gaurav/ci-cd-kyma-functions)
+* [Threat matrix for Kubernetes](https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/) - Thanks Microsoft
+* [LogOn to Kyma](https://developers.sap.com/tutorials/kyma-create-service-account.html) - Thanks Marius Obert
 
 ### Misc
 
-* [Building Industry Solutions in the Cloud](https://blogs.sap.com/2020/12/08/building-industry-solutions-in-the-cloud/)
+* [HANA express edition offerings in the hyperscalers have been removed](https://twitter.com/joerg_brandeis/status/1348597012825059331)
 
 ## Microsoft Universe
 
 ### General
 
-* No News
+* [Software development in 2021 and beyond](https://blogs.microsoft.com/blog/2021/01/14/software-development-in-2021-and-beyond/)
+* [Introducing Microsoft Cloud for Retail](https://cloudblogs.microsoft.com/industry-blog/retail/2021/01/13/introducing-microsoft-cloud-for-retail/)
 
 ### Azure Functions/Serverless
 
-* [Adopting Azure serverless architectures to help reduce CO2 emissions – Part 1](https://devblogs.microsoft.com/sustainable-software/adopting-azure-serverless-architectures-to-help-reduce-co2-emissions-part-1/)
-  * Link in the end does not work: [The Principles of Sustainable Software Engineering](https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/)
-* [Azure Functions in Any Language with Custom Handlers](https://techcommunity.microsoft.com/t5/apps-on-azure/azure-functions-in-any-language-with-custom-handlers/ba-p/1942744)
-* [How to build a serverless app using Go and Azure Functions](https://acloudguru.com/blog/engineering/how-to-build-a-serverless-app-using-go-and-azure-functions)
-* [Azure Functions Kafka Trigger Performance Tips, Concept, and Architecture](https://tsuyoshiushio.medium.com/azure-functions-kafka-trigger-performance-tips-concept-and-architecture-ec94a31d8b93)
-* [Using the Microsoft Face API, Spotify, and Azure Functions to get *emotional*](https://dev.to/azure/using-the-microsoft-face-api-spotify-and-azure-functions-to-get-emotional-14o2)
-* [What's New in Logic Apps](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/what-s-new-in-logic-apps/ba-p/1969149)
+* Custom Handlers
+  * [Serverless Go in Azure Functions with custom handlers](https://youtu.be/RPCEH247twU)
+  * [Express.JS middleware on Azure Functions via custom handlers](https://securecloud.blog/2021/01/04/express-js-middlewares-on-azure-functions-via-custom-handlers/)
+* [Azure Durable Functions for PowerShell](https://4bes.nl/2021/01/03/azure-durable-functions-for-powershell/)
+* [Azure Event Grid Local Debugger](https://twitter.com/nthonyChu/status/1344372893233287168)
+* [Cold starts](https://twitter.com/MikhailShilkov/status/1347194365207261184)
 
 ### Misc
 
-* [How Does Microsoft Do DevOps](https://devblogs.microsoft.com/devops/how-does-microsoft-do-devops/?WT.mc_id=devops-11175-abewan)
-* [Advancing resilience through chaos engineering and fault injection](https://azure.microsoft.com/en-us/blog/advancing-resilience-through-chaos-engineering-and-fault-injection/)
-* [I need manual approvers for GitHub Actions!!!! And I got them now :)](https://devblogs.microsoft.com/devops/i-need-manual-approvers-for-github-actions-and-i-got-them-now/?WT.mc_id=devops-11455-abewan)
-* [GitHub Actions: Environments, environment protection rules and environment secrets (beta)](https://github.blog/changelog/2020-12-15-github-actions-environments-environment-protection-rules-and-environment-secrets-beta/)
+* [Does the Language You Choose Change the Carbon Impact of Client UI Apps?](https://devblogs.microsoft.com/sustainable-software/language-impact-on-ui-apps/)
+* [Azure API Management - API Mock Response & Throttling](https://youtu.be/k_1391989z0)
 
 ## SAP and Microsoft - Combining both worlds
 
-* [Integration of SAP ERP Data into a Common Data Model](https://blogs.sap.com/2020/12/03/integration-of-sap-erp-data-into-a-common-data-model/)
-* [SAP and Microsoft Partner to Run Supply Chain and Industry 4.0 in the Cloud](https://news.sap.com/2020/12/sap-and-microsoft-supply-chain-industry-40-cloud/)
-* [SAP on Azure: Single Sign On Configuration using SAML and Azure Active Directory for Public and Internal URLs](https://blogs.sap.com/2020/12/10/sap-on-azure-single-sign-on-configuration-using-saml-and-azure-active-directory-for-public-and-internal-urls/)
+* [SAP on Azure Video Podcast - Azure DevOps with SAP Cloud Platform](https://youtu.be/zvvGOnQM_OU)
+* [SAP Cloud Platform Integration- Connecting Microsoft SQL Sever](https://blogs.sap.com/2020/12/24/sap-cloud-platform-integration-connecting-microsoft-sql-sever/)
 
 ## Events and Education
 
-* GitHub Universe Talks 2020 available on [YouTube](https://www.youtube.com/c/GitHub/playlists)
-* [Enable unified data governance with Azure Purview | Azure Friday](https://youtu.be/W2bsj3ULw0Y)
+* [How to learn Microsoft Azure in 2021](https://www.thomasmaurer.ch/2020/12/how-to-learn-microsoft-azure-in-2021/)
+* [Microsoft Cloud Workshop Library](https://microsoftcloudworkshop.com/)
+* [the native web GmbH - Trailer for Upcoming Formats](https://youtu.be/_YbN1kXdv_E)
+* [Azure Kubernetes Service (AKS) Zero to Hero Episode1: Introduction](https://youtu.be/JqlwEmIUZH0)
 
 ## Productivity & Developer Experience
 
-* [Breakout rooms generally available today in Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/breakout-rooms-generally-available-today-in-microsoft-teams/ba-p/1968481)
+* [My WSL2 and Windows Terminal setup](https://garrytrinder.github.io/2020/12/my-wsl2-windows-terminal-setup)
 
 ## Disclaimer
 
