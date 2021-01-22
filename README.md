@@ -1,74 +1,70 @@
-# Episode 17: myNewsWrap – SAP and Microsoft
+# Episode 18: myNewsWrap – SAP and Microsoft
 
 ## Links to Video and Podcast
 
-* YouTube: [Link](https://youtu.be/DHA8L_z6MTE)
-* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-17-ep0dff)
+* YouTube: [Link](https://youtu.be/ddtJRQpMJ18)
+* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-18-epad3c)
 
 ## SAP Universe
 
 ### General
 
-* [RISE with SAP](https://www.sap.com/about/events/rise-with-sap.html) - Save the date
+* [Changes in the Board](https://news.sap.com/2021/01/sap-extends-executive-board-white-russell/)
+  * [Diginomica - Adaire Fox-Martin to leave SAP. A case of musical chairs as SAP refocuses marketing and sales](https://diginomica.com/adaire-fox-martin-leave-sap-case-musical-chairs-sap-refocuses-marketing-and-sales)
+  * [Handelsblatt - Wie die neue Marketingspezialistin SAP wieder den Kunden näherbringen soll](https://app.handelsblatt.com/technik/it-tk/julia-white-wie-die-neue-marketingspezialistin-sap-wieder-den-kunden-naeherbringen-soll/26821938.html)
+  * [WiWo - SAP verliert seine Vertriebschefin – und bekommt Verstärkung aus dem Hause Microsoft](https://amp2-wiwo-de.cdn.ampproject.org/c/s/amp2.wiwo.de/unternehmen/it/neue-marketing-chefin-kommt-sap-verliert-seine-vertriebschefin-und-bekommt-verstaerkung-aus-dem-hause-microsoft/26821092.html)
 
 ### SAP Cloud Platform
 
-* [Continuous Integration & Deployment on SAP Cloud Platform](https://people.sap.com/marco.lommatzsch#content)
-* [SCP CI/CD - support on-prem Git repos](https://twitter.com/IrinaKirilova3/status/1349406729294000128)
-* [Migrating SAP Fiori Applications from Neo to Cloud Foundry using SAP BAS](https://blogs.sap.com/2021/01/14/migrating-sap-fiori-applications-from-neo-to-cloud-foundry-using-sap-business-application-studio/)
+* [New release of the Cloud Connector (2.13)](https://blogs.sap.com/2021/01/19/new-release-of-the-cloud-connector-2.13/) - Monitoring Improvements
+* [Back to the future: Cloud Foundry on Kubernetes](https://blogs.sap.com/2021/01/15/back-to-the-future-cloud-foundry-on-kubernetes/)
+* [CI/CD Service now on Partner Price list](https://twitter.com/IrinaKirilova3/status/1351554367950888962)
 
 ### Cloud Application Programing Model
 
-* [Consuming a REST Service with the SAP Cloud Application Programming Model](https://blogs.sap.com/2020/12/27/consuming-a-rest-service-with-the-sap-cloud-application-programming-model/)
-* [New SAP Cloud Application Programming Model Sample for Many-to-Many Relationships and Fiori Annotations](https://blogs.sap.com/2020/12/21/new-sap-cloud-application-programming-model-sample-for-many-to-many-relationships-and-fiori-annotations/)
-* [PlantUML and CAP](https://github.com/hschaefer123/cap-plantuml)
+* No news this week
 
 ### Kyma
 
-* [CI/CD with Kyma Functions](https://github.com/abbi-gaurav/ci-cd-kyma-functions)
-* [Threat matrix for Kubernetes](https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/) - Thanks Microsoft
-* [LogOn to Kyma](https://developers.sap.com/tutorials/kyma-create-service-account.html) - Thanks Marius Obert
+* No news this week
 
-### Misc
+### ABAP Steampunk
 
-* [HANA express edition offerings in the hyperscalers have been removed](https://twitter.com/joerg_brandeis/status/1348597012825059331)
+* No news this week
 
 ## Microsoft Universe
 
-### General
-
-* [Software development in 2021 and beyond](https://blogs.microsoft.com/blog/2021/01/14/software-development-in-2021-and-beyond/)
-* [Introducing Microsoft Cloud for Retail](https://cloudblogs.microsoft.com/industry-blog/retail/2021/01/13/introducing-microsoft-cloud-for-retail/)
-
 ### Azure Functions/Serverless
 
-* Custom Handlers
-  * [Serverless Go in Azure Functions with custom handlers](https://youtu.be/RPCEH247twU)
-  * [Express.JS middleware on Azure Functions via custom handlers](https://securecloud.blog/2021/01/04/express-js-middlewares-on-azure-functions-via-custom-handlers/)
-* [Azure Durable Functions for PowerShell](https://4bes.nl/2021/01/03/azure-durable-functions-for-powershell/)
-* [Azure Event Grid Local Debugger](https://twitter.com/nthonyChu/status/1344372893233287168)
-* [Cold starts](https://twitter.com/MikhailShilkov/status/1347194365207261184)
+* [Azure Functions live](https://youtu.be/rilBc60bF4A?t=335)
+  * [KEDA 2.0 Support in Azure Function Core Tools](https://github.com/Azure/azure-functions-core-tools/pull/2289)
+  * To be GA soon - [Continuous deployment for Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-continuous-deployment)
+  * [Retry Policy with context](https://youtu.be/rilBc60bF4A?t=2062)
+* [Step-by-Step: Deploy Azure PowerShell Functions with GitHub Actions](https://4bes.nl/2021/01/17/step-by-step-deploy-azure-powershell-functions-with-github-actions/)  
+
+* Logic App Enhancements:
+  * [Azure Logic Apps Running Anywhere - Built-In Service Bus Trigger: batching and session handling](https://techcommunity.microsoft.com/t5/integrations-on-azure/azure-logic-apps-running-anywhere-built-in-service-bus-trigger/ba-p/2079995)
+  * [Azure Logic Apps - Authenticate with managed identity for Azure AD OAuth-based connectors](https://techcommunity.microsoft.com/t5/integrations-on-azure/azure-logic-apps-authenticate-with-managed-identity-for-azure-ad/ba-p/2066254)
+  * [Local Development experience](https://twitter.com/jeffhollan/status/1350503280867086336)
 
 ### Misc
 
-* [Does the Language You Choose Change the Carbon Impact of Client UI Apps?](https://devblogs.microsoft.com/sustainable-software/language-impact-on-ui-apps/)
-* [Azure API Management - API Mock Response & Throttling](https://youtu.be/k_1391989z0)
+* [Introducing Kubernetes Event Grid Bridge](https://blog.tomkerkhove.be/2021/01/19/introducing-kubernetes-event-grid-bridge/)
 
 ## SAP and Microsoft - Combining both worlds
 
-* [SAP on Azure Video Podcast - Azure DevOps with SAP Cloud Platform](https://youtu.be/zvvGOnQM_OU)
-* [SAP Cloud Platform Integration- Connecting Microsoft SQL Sever](https://blogs.sap.com/2020/12/24/sap-cloud-platform-integration-connecting-microsoft-sql-sever/)
+* [SAP on Azure Video Podcast - Episode #24 - The One with Logic Apps](https://youtu.be/149-LkqcqZM?t=490)
+* [Publishing Documents from SAP S/4HANA Cloud to SharePoint](https://discovery-center.cloud.sap/missiondetail/3324/3365)
+* [Your SAP on Azure – Part 25 – SQL Server Transparent Data Encryption with Azure Key Vault](https://blogs.sap.com/2021/01/19/your-sap-on-azure-part-25-sql-server-transparent-data-encryption-with-azure-key-vault/)
 
 ## Events and Education
 
-* [How to learn Microsoft Azure in 2021](https://www.thomasmaurer.ch/2020/12/how-to-learn-microsoft-azure-in-2021/)
-* [Microsoft Cloud Workshop Library](https://microsoftcloudworkshop.com/)
-* [the native web GmbH - Trailer for Upcoming Formats](https://youtu.be/_YbN1kXdv_E)
-* [Azure Kubernetes Service (AKS) Zero to Hero Episode1: Introduction](https://youtu.be/JqlwEmIUZH0)
+* [DSAG Technologietage](https://www.dsag.de/techtage)
+* [Azure Kubernetes Service (AKS) Zero to Hero](https://www.youtube.com/watch?v=JqlwEmIUZH0&list=PLDShAwQSfax4CKD9Y-q55FF119Ymnh_xk)
 
 ## Productivity & Developer Experience
 
-* [My WSL2 and Windows Terminal setup](https://garrytrinder.github.io/2020/12/my-wsl2-windows-terminal-setup)
+* [Upcoming News in Windows Terminal](https://twitter.com/cinnamon_msft/status/1352390973083402240)
 
 ## Disclaimer
 
