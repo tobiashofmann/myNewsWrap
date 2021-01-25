@@ -11,8 +11,8 @@ News Center + Landing Pages
 
 * [Microsoft and SAP: Expanding Our Partnership](https://news.sap.com/2021/01/expanding-microsoft-sap-partnership/)
 * [SAP and Microsoft Expand Partnership and Integrate Microsoft Teams Across Solutions](https://news.sap.com/2021/01/sap-and-microsoft-expand-partnership-integrate-teams/)
-* [Microsoft and SAP: Collaborating for Success](https://azure.microsoft.com/en-us/resources/microsoft-and-sap-collaborating-for-success/)
-* [Collaborating for Success - e-book](https://azure.microsoft.com/mediahandler/files/resourcefiles/microsoft-and-sap-collaborating-for-success/Microsoft_CultureofCollaboration_E-Book_WithSAP.pdf)
+* [Microsoft and SAP: Collaborating for Success](https://news.microsoft.com/2021/01/22/sap-and-microsoft-expand-partnership-and-integrate-microsoft-teams-across-solutions/)
+* [Collaborating for Success - e-book](https://www.sap.com/documents/2021/01/ca0f4c25-c87d-0010-87a3-c30de2ffd8ff.html)
 * [The future of industry - Landing Page](https://www.sap.com/dmc/exp/2020-09-sap-microsoft-immersive-experience/index.html#/) - Very nice webpage
 
 And the other channels:
