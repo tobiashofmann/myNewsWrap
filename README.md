@@ -1,29 +1,32 @@
-# Episode 21: myNewsWrap – SAP and Microsoft (incl. DSAG Technologietage 2021)
+# Episode 22: myNewsWrap – SAP and Microsoft
 
 ## Links to Video and Podcast
 
-* YouTube: [Link](https://youtu.be/9t9Wtk2mq5g)
-* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-21-incl--DSAG-Technologietage-2021-epvifk)
+* YouTube: [Link](https://youtu.be/ARXQ81Z-xwo)
+* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-22-eqa4v7)
 
 ## SAP Universe
 
 ### General
 
-* [RISE to the Challenge: A Journey Made Possible Through Partnerships](https://news.sap.com/2021/01/rise-with-sap-journey-possible-through-partnerships/)
-* [Brian Duffy to Lead Newly Formed RISE with SAP Organization](https://news.sap.com/2021/02/brian-duffy-rise-with-sap-organization/)
+* [SAP Acquires No-Code Development Pioneer AppGyver](https://news.sap.com/2021/02/sap-acquire-appgyver/)
+  * Interesting pricing at [AppGyver](https://www.appgyver.com/pricing)
+* SAP Embrace
+  * [SAP x Microsoft: How We Simplify Business Collaboration by Christian Klein](https://www.linkedin.com/pulse/sap-x-microsoft-how-we-simplify-business-christian-klein/)
+  * [Remove Barriers for Your Sales Teams with SAP and Microsoft](https://youtu.be/V4-IM94TN24)
+  * [SAP on Azure Video Podcast - Episode #27 - The One with the partnership deepdive](https://youtu.be/csqzVjqGf3o)
 
 ### Business Technology Platform Core
 
-* [Tobias Hofmann - SAP Cloud Platform transitions to Business Technology Platform, the problems stay](https://www.itsfullofstars.de/?p=6854)
-* [Aligned Roadmap Explorer](https://roadmaps.sap.com/board?PRODUCT=42F2E964FAAF1EDA9FF753E17F3000E5&range=CURRENT-LAST#Q1%202021)
+* [Close the Gap - Wir bauen einen Workflow](https://podcast.opensap.info/close-the-gap/2021/02/09/wir-bauen-einen-workflow-von-den-dsag-technologietagen/)
 
 ### Cloud Application Programing Model
 
-* [CAP - January Release](https://cap.cloud.sap/docs/releases/jan21)
+* [NPM package for AzureAD/AzureADB2C Authentication with SAP CAP](https://twitter.com/wolf_gregor/status/1358488998562439170)
 
 ### Kyma
 
-* [Updates on SAP Developer Tutorials](https://twitter.com/IwonaHahn/status/1356263218658889728) - e. g. CAP on Kyma
+* No News this week
 
 ### ABAP Steampunk
 
@@ -31,45 +34,40 @@
 
 ### Misc
 
-* [Happy anniversary Gardener! Three years of open source Kubernetes management](https://gardener.cloud/blog/2021-01/01/)
-* [Christian Michel - DevOps with SAP](https://podcast.opensap.info/close-the-gap/2021/02/02/devops-fur-sap/)
+* No News this week
 
 ## Microsoft Universe
 
 ### General
 
-* [Key customer benefits of the expanded SAP and Microsoft partnership](https://azure.microsoft.com/de-de/blog/key-customer-benefits-of-the-expanded-sap-and-microsoft-partnership/)
+* [Microsoft unveils new Employee Experience Platform — Microsoft Viva — to help people thrive at work](https://news.microsoft.com/2021/02/04/microsoft-unveils-new-employee-experience-platform-microsoft-viva-to-help-people-thrive-at-work/) - Viva Learning + SAP SuccessFactors
 
 ### Azure Functions/Serverless
 
-* [Moving from servers to server(less)](https://devblogs.microsoft.com/startups/serverless-akari/)
-* [Microsoft Power Platform: 2021 release wave 1 plan](https://docs.microsoft.com/en-us/power-platform-release-plan/2021wave1/?_lrsc=e1b02cb2-2c2f-49aa-8260-2564bd79584e)
+* No News this week
 
 ### Misc
 
-* [Azure Fun Bytes - Intro to DAPR](https://dev.to/azure/azurefunbytes-episode-29-intro-to-daprdev-with-mfussell-cak)
-* [ZEISS accelerates cloud-first development on Azure and streamlines order processing](https://customers.microsoft.com/en-us/story/1336089737047375040-zeiss-accelerates-cloud-first-development-on-azure-and-streamlines-order-processing) - DAPR in the real life
-* [IT Ops Talks: All Things Hybrid](https://www.youtube.com/playlist?list=PLjt5SKzX1iI8k8_I80quMWgeNdSGyXzaF)
-* [Demystifying Service Principals – Managed Identities](https://devblogs.microsoft.com/devops/demystifying-service-principals-managed-identities/?WT.mc_id=devops-10986-abewan)
+* [How to Save Money on Azure using Azure Reservations](https://www.thomasmaurer.ch/2019/09/how-to-save-money-on-azure-using-azure-reservations/)
+* [Cloud Native Club - Folge 5: Kubernetes Policies](https://youtu.be/X4PuPdAhaDo)
+* [Running Dapr in production at Roadwork](https://blog.dapr.io/posts/2021/02/09/running-dapr-in-production-at-roadwork/)
 
 ## SAP and Microsoft - Combining both worlds
 
-* [SAP Business ByDesign for Microsoft Teams (Beta)](https://blogs.sap.com/2021/02/03/sap-business-bydesign-for-microsoft-teams-beta/)
-* [Your SAP on Azure – Part 26 – Automate invoice processing using Azure Logic Apps and Cognitive Services](https://blogs.sap.com/2021/02/03/your-sap-on-azure-part-26-automate-invoice-processing-using-azure-logic-apps-and-cognitive-services/)
+* [Using Microsoft Graph API with OAuth 2.0 Authorization Code via seperate Node.JS App within Multi Target Application](https://blogs.sap.com/2021/02/09/using-microsoft-graph-api-with-oauth-2.0-authorization-code-via-seperate-node.js-app-within-multi-target-application/)
+* [How to call SAP BTP application, scheduled by Microsoft Azure Logic App](https://blogs.sap.com/2021/02/08/how-to-call-sap-btp-app-regularly-from-microsoft-azure-logic-apps/)
+* [HANA SDI Adapter for Azure Data Lake](https://blogs.sap.com/2021/02/08/hana-sdi-adapter-for-azure-data-lake/)
+* [Hey, SAP Systems! My PowerApp says Snooze! But only if you’re ready yet](https://blogs.sap.com/2021/02/10/hey-sap-systems-my-powerapp-says-snooze-but-only-if-youre-ready-yet/)
 
 ## Events and Education
 
-* No news this week
+* [35+ Ways to Learn SAP](https://blog.sap-press.com/ways-to-learn-sap)
+* Registration is open: [Microsoft Ignite 2021](https://myignite.microsoft.com/home)
 
 ## Productivity & Developer Experience
 
-* [Presentation trickery: Online glassboard (like Lightboard) but using just free software](http://blogs.lobsterpot.com.au/2021/01/30/presentation-trickery-online-glassboard-like-lightboard-but-using-just-free-software/)
-* [Transparent Glass Whiteboard in Microsoft Teams or Zoom with OBS for FREE!](https://youtu.be/-oaikJCR6ec)
-
-## Special Topic - DSAG Technologietage 2021
-
-* [Official Notes](https://www.dsag.de/pressreleases/differenzierungsfaktor-cloud)
-* [IT Online Magazin - DSAG Technologietage](https://it-onlinemagazin.de/dsag-fordert-vorlagen-und-migrationspfade-fuer-datengetriebene-unternehmen/)
+* [GitHub1s](https://github1s.com/)
+* [Building a Healthier Meeting Culture](https://www.microsoft.com/en-us/worklab/better-meetings)
 
 ## Disclaimer
 
