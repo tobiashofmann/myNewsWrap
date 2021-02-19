@@ -1,73 +1,72 @@
-# Episode 22: myNewsWrap – SAP and Microsoft
+# Episode 23: myNewsWrap – SAP and Microsoft
 
 ## Links to Video and Podcast
 
-* YouTube: [Link](https://youtu.be/ARXQ81Z-xwo)
-* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-22-eqa4v7)
+* YouTube: [Link](https://youtu.be/FNqFhr615lQ)
+* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-23-eqkhbp)
 
 ## SAP Universe
 
 ### General
 
-* [SAP Acquires No-Code Development Pioneer AppGyver](https://news.sap.com/2021/02/sap-acquire-appgyver/)
-  * Interesting pricing at [AppGyver](https://www.appgyver.com/pricing)
-* SAP Embrace
-  * [SAP x Microsoft: How We Simplify Business Collaboration by Christian Klein](https://www.linkedin.com/pulse/sap-x-microsoft-how-we-simplify-business-christian-klein/)
-  * [Remove Barriers for Your Sales Teams with SAP and Microsoft](https://youtu.be/V4-IM94TN24)
-  * [SAP on Azure Video Podcast - Episode #27 - The One with the partnership deepdive](https://youtu.be/csqzVjqGf3o)
+* DSAG Technologietage - Aftermath: [Magic Quadrant for Analytics and Business Intelligence Platforms](https://www.gartner.com/doc/reprints?id=1-24ZXJ0MU&ct=210107&st=sb)
+* [Low-code to no-code by Tobias Hofmann](https://www.itsfullofstars.de/?p=6866)
 
 ### Business Technology Platform Core
 
-* [Close the Gap - Wir bauen einen Workflow](https://podcast.opensap.info/close-the-gap/2021/02/09/wir-bauen-einen-workflow-von-den-dsag-technologietagen/)
+* [Configure SAP Enterprise Messaging for SAP S/4HANA On-Premise 2020 via Service Key](https://blogs.sap.com/2021/02/15/configure-sap-enterprise-messaging-for-sap-s-4-hana-on-premise-2020-via-service-key/)
+* [Introducing the new consolidated marketplace on SAP Business Technology Platform (SAP BTP) cockpit!](https://blogs.sap.com/2021/02/18/introducing-the-new-consolidated-marketplace-on-sap-business-technology-platform-sap-btp-cockpit/)
 
 ### Cloud Application Programing Model
 
-* [NPM package for AzureAD/AzureADB2C Authentication with SAP CAP](https://twitter.com/wolf_gregor/status/1358488998562439170)
+* [6 reasons why SAP should open-source CAP](https://blogs.sap.com/2021/02/15/6-reasons-why-sap-should-open-source-cap/)
+* [Storyboard for cloud business applications using CAP in SAP Business Application Studio](https://blogs.sap.com/2021/02/15/storyboard-for-cloud-business-applications-using-cap-in-sap-business-application-studio/)
 
 ### Kyma
 
-* No News this week
+* [Kyma trial account - resource constraints](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/c4fff0f58f90424f8e0af28975ac7f0f.html)
+* [Easier start with Kyma runtime](https://blogs.sap.com/2021/02/16/easier-start-with-kyma-runtime/)
+* [Building CI CD pipelines for Kyma runtime extensions and applications](https://blogs.sap.com/2021/02/12/building-ci-cd-pipelines-for-kyma-runtime-extensions-and-applications/)
 
 ### ABAP Steampunk
 
-* No News this week
+* No news this week
 
 ### Misc
 
-* No News this week
+* [SAP ABAP Platform 1909, Developer Edition: AVAILABLE NOW](https://blogs.sap.com/2021/02/15/sap-abap-platform-1909-developer-edition-available-soon/) - It needs some hardware!
+  * [SAP ABAP Platform 1909, Developer Edition: Day 1 Experience and Tips and Tricks](https://blogs.sap.com/2021/02/16/sap-abap-platform-1909-developer-edition-day-1-experience-and-tips-and-tricks/)
 
 ## Microsoft Universe
 
 ### General
 
-* [Microsoft unveils new Employee Experience Platform — Microsoft Viva — to help people thrive at work](https://news.microsoft.com/2021/02/04/microsoft-unveils-new-employee-experience-platform-microsoft-viva-to-help-people-thrive-at-work/) - Viva Learning + SAP SuccessFactors
+* No news this week
 
 ### Azure Functions/Serverless
 
-* No News this week
+* [Serverless Chats - Episode #88: Azure Functions with Jeff Hollan](https://www.serverlesschats.com/88/)
 
 ### Misc
 
-* [How to Save Money on Azure using Azure Reservations](https://www.thomasmaurer.ch/2019/09/how-to-save-money-on-azure-using-azure-reservations/)
-* [Cloud Native Club - Folge 5: Kubernetes Policies](https://youtu.be/X4PuPdAhaDo)
-* [Running Dapr in production at Roadwork](https://blog.dapr.io/posts/2021/02/09/running-dapr-in-production-at-roadwork/)
+* [Cosmos DB Webinar Series - on demand](https://twitter.com/PatrikBihammar/status/1361505366626889729?s=20)
+* Dapr 1.0 Released
+  * [Announcing Dapr v1.0](https://blog.dapr.io/posts/2021/02/17/announcing-dapr-v1.0/)
+  * Not heard about Dapr yet? [Introducing Dapr: The Distributed Application Runtime](https://youtu.be/9o9iDAgYBA8)
+  * [Dapr for .NET Developers](https://docs.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/)
 
 ## SAP and Microsoft - Combining both worlds
 
-* [Using Microsoft Graph API with OAuth 2.0 Authorization Code via seperate Node.JS App within Multi Target Application](https://blogs.sap.com/2021/02/09/using-microsoft-graph-api-with-oauth-2.0-authorization-code-via-seperate-node.js-app-within-multi-target-application/)
-* [How to call SAP BTP application, scheduled by Microsoft Azure Logic App](https://blogs.sap.com/2021/02/08/how-to-call-sap-btp-app-regularly-from-microsoft-azure-logic-apps/)
-* [HANA SDI Adapter for Azure Data Lake](https://blogs.sap.com/2021/02/08/hana-sdi-adapter-for-azure-data-lake/)
-* [Hey, SAP Systems! My PowerApp says Snooze! But only if you’re ready yet](https://blogs.sap.com/2021/02/10/hey-sap-systems-my-powerapp-says-snooze-but-only-if-youre-ready-yet/)
+* [Control your SAP runtime with Azure Logic Apps using Email {No-code}](https://blogs.sap.com/2021/02/11/control-your-sap-runtime-with-azure-logic-apps-using-email-no-code/)
+* [Webinar: Extend SAP solutions using Microsoft Power Platform](https://info.microsoft.com/ww-Landing-Extend-SAP-solutions-using-Microsoft-Power-Platform.html?LCID=EN-US)
 
 ## Events and Education
 
-* [35+ Ways to Learn SAP](https://blog.sap-press.com/ways-to-learn-sap)
-* Registration is open: [Microsoft Ignite 2021](https://myignite.microsoft.com/home)
+* [Azure Cosmos DB Conf](https://gotcosmos.com/conf)
 
 ## Productivity & Developer Experience
 
-* [GitHub1s](https://github1s.com/)
-* [Building a Healthier Meeting Culture](https://www.microsoft.com/en-us/worklab/better-meetings)
+* No news this week
 
 ## Disclaimer
 
