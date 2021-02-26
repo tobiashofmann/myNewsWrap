@@ -1,72 +1,70 @@
-# Episode 23: myNewsWrap – SAP and Microsoft
+# Episode 24: myNewsWrap – SAP and Microsoft
 
 ## Links to Video and Podcast
 
-* YouTube: [Link](https://youtu.be/FNqFhr615lQ)
-* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-23-eqkhbp)
+* YouTube: [Link](https://youtu.be/d4r1IASOaHo)
+* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-24-er3rh8)
 
 ## SAP Universe
 
 ### General
 
-* DSAG Technologietage - Aftermath: [Magic Quadrant for Analytics and Business Intelligence Platforms](https://www.gartner.com/doc/reprints?id=1-24ZXJ0MU&ct=210107&st=sb)
-* [Low-code to no-code by Tobias Hofmann](https://www.itsfullofstars.de/?p=6866)
+* Partners and [RISE with SAP](https://twitter.com/jonerp/status/1363962091862900750)
 
 ### Business Technology Platform Core
 
-* [Configure SAP Enterprise Messaging for SAP S/4HANA On-Premise 2020 via Service Key](https://blogs.sap.com/2021/02/15/configure-sap-enterprise-messaging-for-sap-s-4-hana-on-premise-2020-via-service-key/)
-* [Introducing the new consolidated marketplace on SAP Business Technology Platform (SAP BTP) cockpit!](https://blogs.sap.com/2021/02/18/introducing-the-new-consolidated-marketplace-on-sap-business-technology-platform-sap-btp-cockpit/)
+* [Rebranding SAP Cloud Platform](https://www.sap.com/documents/2021/02/bc275d93-d07d-0010-87a3-c30de2ffd8ff.html)
+* [Please welcome ‘SAP Event Mesh’ – new name for ‘SAP Cloud Platform Enterprise Messaging’](https://blogs.sap.com/2021/02/22/please-welcome-sap-event-mesh-new-name-for-sap-cloud-platform-enterprise-messaging/)
+* [Configure Cloud Connector on SAP Business Technology Platform when activated TFA](https://blogs.sap.com/2021/02/22/configure-cloud-connector-on-sap-business-technology-platform-when-activated-tfa/)
+* [Exploring BTP Workflow Service APIs with a sample application](https://blogs.sap.com/2021/02/24/exploring-btp-workflow-service-apis-with-a-sample-application/)
 
 ### Cloud Application Programing Model
 
-* [6 reasons why SAP should open-source CAP](https://blogs.sap.com/2021/02/15/6-reasons-why-sap-should-open-source-cap/)
-* [Storyboard for cloud business applications using CAP in SAP Business Application Studio](https://blogs.sap.com/2021/02/15/storyboard-for-cloud-business-applications-using-cap-in-sap-business-application-studio/)
+* No news this week
 
 ### Kyma
 
-* [Kyma trial account - resource constraints](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/c4fff0f58f90424f8e0af28975ac7f0f.html)
-* [Easier start with Kyma runtime](https://blogs.sap.com/2021/02/16/easier-start-with-kyma-runtime/)
-* [Building CI CD pipelines for Kyma runtime extensions and applications](https://blogs.sap.com/2021/02/12/building-ci-cd-pipelines-for-kyma-runtime-extensions-and-applications/)
+* [Container Security](https://www.redhat.com/cms/managed-files/cl-container-security-openshift-cloud-devops-tech-detail-f7530kc-201705-en.pdf)
 
 ### ABAP Steampunk
 
-* No news this week
+* [SAP BTP ABAP Environment – Release 2102](https://blogs.sap.com/2021/02/24/sap-business-technology-platform-abap-environment-release-2102/)
 
 ### Misc
 
-* [SAP ABAP Platform 1909, Developer Edition: AVAILABLE NOW](https://blogs.sap.com/2021/02/15/sap-abap-platform-1909-developer-edition-available-soon/) - It needs some hardware!
-  * [SAP ABAP Platform 1909, Developer Edition: Day 1 Experience and Tips and Tricks](https://blogs.sap.com/2021/02/16/sap-abap-platform-1909-developer-edition-day-1-experience-and-tips-and-tricks/)
+* [SAP ABAP Platform 1909, Developer Edition: WSL2 Memory/CPU Hogging Tip](https://blogs.sap.com/2021/02/23/sap-abap-platform-1909-developer-edition-wsl2-memory-cpu-hogging-tip/)
+* [SAP TechEd Developer Keynote – Info Central](https://blogs.sap.com/2021/02/23/sap-teched-developer-keynote-info-central/)
 
 ## Microsoft Universe
 
 ### General
 
-* No news this week
+* [SAP IT lifts its business-critical landscapes to the Azure cloud platform for scalable flexibility](https://customers.microsoft.com/en-us/story/1338954908978914227-sap-se-partner-professional-services-azure-active-directory)
 
 ### Azure Functions/Serverless
 
-* [Serverless Chats - Episode #88: Azure Functions with Jeff Hollan](https://www.serverlesschats.com/88/)
+* [A deep dive into serverless applications on Power Apps and Azure](https://azure.microsoft.com/en-us/blog/a-deep-dive-into-serverless-applications-on-power-apps-and-azure/)
 
 ### Misc
 
-* [Cosmos DB Webinar Series - on demand](https://twitter.com/PatrikBihammar/status/1361505366626889729?s=20)
-* Dapr 1.0 Released
-  * [Announcing Dapr v1.0](https://blog.dapr.io/posts/2021/02/17/announcing-dapr-v1.0/)
-  * Not heard about Dapr yet? [Introducing Dapr: The Distributed Application Runtime](https://youtu.be/9o9iDAgYBA8)
-  * [Dapr for .NET Developers](https://docs.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/)
+* [AzureFunBytes – Dapr on Azure](https://devblogs.microsoft.com/devops/azurefunbytes-dapr-on-azure/)
 
 ## SAP and Microsoft - Combining both worlds
 
-* [Control your SAP runtime with Azure Logic Apps using Email {No-code}](https://blogs.sap.com/2021/02/11/control-your-sap-runtime-with-azure-logic-apps-using-email-no-code/)
-* [Webinar: Extend SAP solutions using Microsoft Power Platform](https://info.microsoft.com/ww-Landing-Extend-SAP-solutions-using-Microsoft-Power-Platform.html?LCID=EN-US)
+* [Principal propagation in a multi-cloud solution between Microsoft Azure and SAP Cloud Platform (SCP), Part III: Teams SSO, Process Integration & Core Data Services](https://blogs.sap.com/2021/02/24/principal-propagation-in-a-multi-cloud-solution-between-microsoft-azure-and-sap-cloud-platform-scp-part-iii-teams-sso-process-integration-core-data-services/)
+* [Deploying a Hyperledger Fabric template on Azure Kubernetes Service (AKS)](https://blogs.sap.com/2021/02/23/deploying-a-hyperledger-fabric-template-on-azure-kubernetes-service-aks/)
+* [Put collaboration in business context with SAP Workflow Service and MS Teams](https://blogs.sap.com/2021/02/25/put-collaboration-in-business-context-with-sap-workflow-service-and-ms-teams/)
+* [SAP on Azure Video Podcast - Episode #29 - The One with the Power Platform](https://youtu.be/W5pkGjF62ug)
 
 ## Events and Education
 
-* [Azure Cosmos DB Conf](https://gotcosmos.com/conf)
+* Reminder [Microsoft Ignite](https://myignite.microsoft.com/home)
+* openSAP - [Efficient DevOps with SAP](https://open.sap.com/courses/devops1)
+* [SAP Tech Bytes](https://www.youtube.com/user/sapdevs/playlists)
 
 ## Productivity & Developer Experience
 
-* No news this week
+* [VS code  is on TikTok](https://www.tiktok.com/@vscode?)
 
 ## Disclaimer
 
