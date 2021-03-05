@@ -3,7 +3,7 @@
 ## Links to Video and Podcast
 
 * YouTube: [Link](https://youtu.be/VV6YtZ8LkH0)
-* AnchorFM (Audio Stream): [Link](https://github.com/lechnerc77/myNewsWrap/tree/episode25)
+* AnchorFM (Audio Stream): [Link](hhttps://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-25-with-Microsoft-Ignite-erlanj)
 
 ## SAP Universe
 
