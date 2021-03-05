@@ -1,70 +1,88 @@
-# Episode 24: myNewsWrap – SAP and Microsoft
+# Episode 25: myNewsWrap – SAP and Microsoft
 
 ## Links to Video and Podcast
 
-* YouTube: [Link](https://youtu.be/d4r1IASOaHo)
-* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-24-er3rh8)
+* YouTube: [Link](https://youtu.be/VV6YtZ8LkH0)
+* AnchorFM (Audio Stream): [Link](https://github.com/lechnerc77/myNewsWrap/tree/episode25)
 
 ## SAP Universe
 
 ### General
 
-* Partners and [RISE with SAP](https://twitter.com/jonerp/status/1363962091862900750)
+* No news this week
 
 ### Business Technology Platform Core
 
-* [Rebranding SAP Cloud Platform](https://www.sap.com/documents/2021/02/bc275d93-d07d-0010-87a3-c30de2ffd8ff.html)
-* [Please welcome ‘SAP Event Mesh’ – new name for ‘SAP Cloud Platform Enterprise Messaging’](https://blogs.sap.com/2021/02/22/please-welcome-sap-event-mesh-new-name-for-sap-cloud-platform-enterprise-messaging/)
-* [Configure Cloud Connector on SAP Business Technology Platform when activated TFA](https://blogs.sap.com/2021/02/22/configure-cloud-connector-on-sap-business-technology-platform-when-activated-tfa/)
-* [Exploring BTP Workflow Service APIs with a sample application](https://blogs.sap.com/2021/02/24/exploring-btp-workflow-service-apis-with-a-sample-application/)
+* [Split MTA into backend & frontend – Managed AppRouter](https://blogs.sap.com/2021/03/03/split-mta-into-backend-frontend-managed-approuter/)
 
 ### Cloud Application Programing Model
 
-* No news this week
+* [New CAP Release](https://cap.cloud.sap/docs/releases/feb21)
 
 ### Kyma
 
-* [Container Security](https://www.redhat.com/cms/managed-files/cl-container-security-openshift-cloud-devops-tech-detail-f7530kc-201705-en.pdf)
+* No news this week
 
 ### ABAP Steampunk
 
-* [SAP BTP ABAP Environment – Release 2102](https://blogs.sap.com/2021/02/24/sap-business-technology-platform-abap-environment-release-2102/)
+* No news this week
 
 ### Misc
 
-* [SAP ABAP Platform 1909, Developer Edition: WSL2 Memory/CPU Hogging Tip](https://blogs.sap.com/2021/02/23/sap-abap-platform-1909-developer-edition-wsl2-memory-cpu-hogging-tip/)
-* [SAP TechEd Developer Keynote – Info Central](https://blogs.sap.com/2021/02/23/sap-teched-developer-keynote-info-central/)
+* [A cloud native architecture for SAP NetWeaver](https://www.itsfullofstars.de/?p=6885) by Tobias Hofmann 
+* [ABAP OpenAPI Client Generation in ABAP](https://blogs.sap.com/2021/02/22/abap-openapi-client-generation-in-abap/)
 
 ## Microsoft Universe
 
 ### General
 
-* [SAP IT lifts its business-critical landscapes to the Azure cloud platform for scalable flexibility](https://customers.microsoft.com/en-us/story/1338954908978914227-sap-se-partner-professional-services-azure-active-directory)
+* [What’s next for Industry](https://youtu.be/vcYxybr_tOo)
 
 ### Azure Functions/Serverless
 
-* [A deep dive into serverless applications on Power Apps and Azure](https://azure.microsoft.com/en-us/blog/a-deep-dive-into-serverless-applications-on-power-apps-and-azure/)
+* [Azure Functions Live - Mar 2021](https://youtu.be/xEYQBPo11iI)
+  * Private Endpoint Connection is GA
+  * Node14 is GA
+  * [Community Contributions](https://aka.ms/functions/links)
+  * Tons of Demos around Static Web Apps (CLI!)
+* [Durable Functions Use Cases](https://github.com/marcduiker/durable-functions-use-cases)
+* [Autoscale applications on Kubernetes with Kubernetes Event-Driven Autoscaling (KEDA) | Azure Friday](https://youtu.be/TftaxqNFsZY)
 
 ### Misc
 
-* [AzureFunBytes – Dapr on Azure](https://devblogs.microsoft.com/devops/azurefunbytes-dapr-on-azure/)
+* [Cosmas DB Podcast](https://twitter.com/AzureCosmosDB/status/1367582169066004482)
 
 ## SAP and Microsoft - Combining both worlds
 
-* [Principal propagation in a multi-cloud solution between Microsoft Azure and SAP Cloud Platform (SCP), Part III: Teams SSO, Process Integration & Core Data Services](https://blogs.sap.com/2021/02/24/principal-propagation-in-a-multi-cloud-solution-between-microsoft-azure-and-sap-cloud-platform-scp-part-iii-teams-sso-process-integration-core-data-services/)
-* [Deploying a Hyperledger Fabric template on Azure Kubernetes Service (AKS)](https://blogs.sap.com/2021/02/23/deploying-a-hyperledger-fabric-template-on-azure-kubernetes-service-aks/)
-* [Put collaboration in business context with SAP Workflow Service and MS Teams](https://blogs.sap.com/2021/02/25/put-collaboration-in-business-context-with-sap-workflow-service-and-ms-teams/)
-* [SAP on Azure Video Podcast - Episode #29 - The One with the Power Platform](https://youtu.be/W5pkGjF62ug)
+* [SAP on Azure Video Podcast - Episode #30 - The One with the Invoice Processing](https://youtu.be/fYRC13pF-Ck)
 
 ## Events and Education
 
-* Reminder [Microsoft Ignite](https://myignite.microsoft.com/home)
-* openSAP - [Efficient DevOps with SAP](https://open.sap.com/courses/devops1)
-* [SAP Tech Bytes](https://www.youtube.com/user/sapdevs/playlists)
+* No news this week
 
 ## Productivity & Developer Experience
 
-* [VS code  is on TikTok](https://www.tiktok.com/@vscode?)
+* [Empowering every developer to innovate with Azure](https://azure.microsoft.com/en-us/blog/empowering-every-developer-to-innovate-with-azure/)
+* [Developer Velocity: Key lessons from digital leaders on software excellence for 2021 and beyond](https://azure.microsoft.com/en-us/blog/developer-velocity-key-lessons-from-digital-leaders-on-software-excellence-for-2021-and-beyond/)
+
+## Microsoft Ignite 2021
+
+Curated highlights from the [Book of News](https://news.microsoft.com/ignite-march-2021-book-of-news/) focusing on the SAP and Microsoft story:
+
+* Azure AI
+  * [Semantic search capability in Azure Cognitive Search](https://news.microsoft.com/ignite-march-2021-book-of-news/#a-111-semantic-search-capability-in-azure-cognitive-search-now-in-preview) - together with Sharepoint integration
+  * [Updates on Form Recognizer](https://news.microsoft.com/ignite-march-2021-book-of-news/#a-112-azure-form-recognizer-adds-preview-of-data-extraction-and-new-languages-)
+* Azure Data
+  * [Updates for Cosmos DB](https://news.microsoft.com/ignite-march-2021-book-of-news/#a-123-four-new-updates-for-azure-cosmos-db-are-now-generally-available-or-in-preview)
+* Azure Dev and Ecosystem
+  * [Azure Communication Services in GA](https://news.microsoft.com/ignite-march-2021-book-of-news/#a-141-azure-communication-services-to-be-generally-available-with-microsoft-teams-interoperability-in-preview)
+  * For the Java devs: [Improvements for Spring Cloud](https://news.microsoft.com/ignite-march-2021-book-of-news/#a-142-autoscale-for-azure-spring-cloud-and-managed-virtual-network-now-generally-available-) and for [running JEE applications](https://news.microsoft.com/ignite-march-2021-book-of-news/#a-144-new-solutions-for-running-java-ee-applications-on-azure-now-available)
+  * [Developer Velocity](https://news.microsoft.com/ignite-march-2021-book-of-news/#a-143-developer-velocity-assessment-tool-updates-and-new-industry-report-help-organizations-understand-digital-readiness-)
+* [Azure Mixed Reality](https://news.microsoft.com/ignite-march-2021-book-of-news/#a-171-mixed-reality-services-azure-remote-rendering-and-azure-object-anchors-now-available-)
+* [News around Power Platform](https://news.microsoft.com/ignite-march-2021-book-of-news/#a-221-robotic-process-automation-from-microsoft-power-automate-now-included-with-windows-10-)
+* [Industry Cloud](https://news.microsoft.com/ignite-march-2021-book-of-news/#a-311-new-microsoft-industry-clouds-released-to-preview-healthcare-cloud-updated-)
+* [Microsoft Teams](https://news.microsoft.com/ignite-march-2021-book-of-news/#a-421-microsoft-teams-connect-which-strengthens-external-collaboration-with-shared-channels-now-in-private-preview-)
+* Skilling and Certification: [Free certification renewal](https://news.microsoft.com/ignite-march-2021-book-of-news/#a-612-microsoft-certifications-renewal-assessment-now-available-for-free-on-microsoft-learn)
 
 ## Disclaimer
 
