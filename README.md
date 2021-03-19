@@ -2,8 +2,8 @@
 
 ## Links to Video and Podcast
 
-* YouTube: [Link]()
-* AnchorFM (Audio Stream): [Link]()
+* YouTube: [Link](https://youtu.be/i69P5i-5B9g)
+* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-27-et0m1b)
 
 ## SAP Universe
 
@@ -29,7 +29,7 @@ No news this week
 
 ### Misc
 
-* [SAML 2.0 – Automatic redirect to default IdP](https://www.itsfullofstars.de/?p=6900)
+No news this week
 
 ## Microsoft Universe
 
@@ -64,7 +64,7 @@ No news this week
 
 ## Productivity & Developer Experience
 
-* Useful Tool for JWT Tokens[https://jwt.ms/](https://jwt.ms/)
+* Useful Tool for JWT Tokens [https://jwt.ms/](https://jwt.ms/)
 
 ## Disclaimer
 
