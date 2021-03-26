@@ -1,70 +1,72 @@
-# Episode 27: myNewsWrap – SAP and Microsoft
+# Episode 28: myNewsWrap – SAP and Microsoft
 
 ## Links to Video and Podcast
 
-* YouTube: [Link]()
-* AnchorFM (Audio Stream): [Link]()
+* YouTube: [Link](https://youtu.be/_G2GhMNOSUY)
+* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-28-ethot7)
 
 ## SAP Universe
 
 ### General
 
-No news this week
+* [Low-Code/No-Code Development and Citizen Automation are the Future of Enterprise Resilience](https://blogs.sap.com/2021/03/18/low-code-no-code-development-and-citizen-automation-are-the-future-of-enterprise-resilience/?source=social-Global-SAP-TWITTER-MarketingCampaign-Business+Technology+Platform-Business+Technology+Platfor)
+* [If you build it, they will come](https://www.itsfullofstars.de/2021/03/if-you-build-it-they-will-come/)
 
 ### Business Technology Platform Core
 
-* [sap-cf-proxy - proxy to all destinations in SAP BTP Cloud Foundry subaccount](https://github.com/jowavp/sap-cf-proxy)
+* [How to get your SAP BTP Balance Statement via SAP for Me](https://blogs.sap.com/2021/03/24/how-to-get-your-sap-btp-balance-statement-via-sap-for-me/)
+* [SAP Business Technology Platform Showcase – Overall end-to-end Demo](https://blogs.sap.com/2021/01/27/sap-business-technology-platform-showcase-overall-end-to-end-demo/)
 
 ### Cloud Application Programing Model
 
-* [Discovering SAP Fiori Elements Analytical functions by implementing SAP Support Message Reporting](https://blogs.sap.com/2021/03/14/discovering-sap-fiori-elements-analytical-functions-by-implementing-sap-support-message-reporting/)
+* No news this week
 
 ### Kyma
 
-No news this week
+* [Kyma to OnPrem Connection](https://roadmaps.sap.com/board?PRODUCT=73554900100800003012&range=FIRST-LAST#Q1%202021;INNO=089E017A62AB1EDB80CD94F7E86A40EB) - S-User required
+* [Adding authentication to Approuter with XSUAA binding in Kyma runtime](https://blogs.sap.com/2021/03/25/adding-authentication-to-approuter-with-xsuaa-binding-in-kyma-runtime/)
 
 ### ABAP Steampunk
 
-* Update - [RAP Generator](https://github.com/SAP-samples/cloud-abap-rap/blob/master/README.md)
+* No news this week
 
 ### Misc
 
-* [SAML 2.0 – Automatic redirect to default IdP](https://www.itsfullofstars.de/?p=6900)
+* No news this week
 
 ## Microsoft Universe
 
 ### General
 
-* [Post Mortem AAD](https://status.azure.com/en-gb/status/history/)
+* No news this week
 
 ### Azure Functions/Serverless
 
-* [Durable functions in Python for Azure Functions | Azure Friday](https://youtu.be/HZgjmb9Y_IM)
-* [Azure Functions Challenge - Notify Support - Part II SOLUTION (.NET)](https://youtu.be/WQnCB2KhfGE)
-* [Azure Static Web Apps](https://youtu.be/lqvYAI74w64)
-* New release: [Durable Functions v2.4.2 Release](https://github.com/Azure/azure-functions-durable-extension/releases/tag/v2.4.2)
-* New release: [KEDA 2.2.0](https://github.com/kedacore/keda/releases/tag/v2.2.0)
+* [Azure Functions Live - Mar 2021 - .NET Roadmap](https://youtu.be/4n0QbG0wYEI)
+* [CQRS +  Azure Functions + Custom Bindings](https://github.com/jfellien/azure-serverless-cqrs)
 
 ### Misc
 
-* [Donation of DAPR to CNCF](https://github.com/cncf/toc/pull/617)
-* [Deploy Spring Boot apps with enterprise best practices - Azure Spring Cloud Reference Architecture](https://techcommunity.microsoft.com/t5/apps-on-azure/deploy-spring-boot-apps-with-enterprise-best-practices-azure/ba-p/2201411)
-* [Der Status Quo des Chaos Engineerings](https://www.microsoft.com/de-de/techwiese/cloud-native-community-blog/der-status-quo-des-chaos-engineerings.aspx)
-* [Keeping track of Azure resources with tags](https://jesspomfret.com/azure-tags-part1/)
-* [Azure Resource Mover](https://techcommunity.microsoft.com/t5/azure-governance-and-management/azure-resource-mover-now-generally-available-move-seamlessly/ba-p/2176543)
+* Podcast - [E09 – Microsoft und Open Source](https://open.spotify.com/episode/2Vrqenjs3tVaz0g6QfHj5K?si=TpCLcWBGSwygtiKV4Ts6WQ&nd=1)
+* [Prevent exceeding Azure budget with forecasted cost alerts](https://azure.microsoft.com/en-ca/blog/prevent-exceeding-azure-budget-with-forecasted-cost-alerts/)
+* [Cosmos DB Calculator](https://cosmos.azure.com/capacitycalculator/)
+* [Visual Studio Toolbox Live - DevOps with GitHub From the Ground Up](https://youtu.be/BusnkZx9vNo)
+* [Azure Bicep, Deployment Script and Role Definition Code Example](https://blog.tyang.org/2021/03/21/azure-bicep-deployment-script-role-def-example/)
 
 ## SAP and Microsoft - Combining both worlds
 
-* [Microsoft - Advancing failure prediction and mitigation—introducing Narya](https://azure.microsoft.com/en-us/blog/advancing-failure-prediction-and-mitigation-introducing-narya/) - For our SAP Basis guys
-* [SAML 2.0 – Automatic redirect to default IdP](https://www.itsfullofstars.de/?p=6900)
+* [SAP Fiori using Azure CDN for SAPUI5 libraries](https://blogs.sap.com/2021/03/22/sap-fiori-using-azure-cdn-for-sapui5-libraries/)
 
 ## Events and Education
 
-No news this week
+* [Ask Us Anything: SAP Business Technology Platform](https://www.linkedin.com/events/askusanything-sapbusinesstechno6773658161766256640/) by SAP Technology
+* [Cloud-Native learning resources for .NET developers](https://devblogs.microsoft.com/dotnet/cloud-native-learning-resources-for-net-developers/)
+* [Azure Functions University - Configuration + App Settings](https://youtu.be/p8FVnMSYMpA)
+* [Azure lessons](https://twitter.com/AzureLessons?s=20)
 
 ## Productivity & Developer Experience
 
-* Useful Tool for JWT Tokens[https://jwt.ms/](https://jwt.ms/)
+* [Switching between Kubernetes cluster contexts stored in Azure Key Vault](https://www.wesleyhaakman.org/switching-between-kubernetes-cluster-contexts-stored-in-azure-key-vault/)
 
 ## Disclaimer
 
