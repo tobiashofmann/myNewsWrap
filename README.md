@@ -1,70 +1,73 @@
-# Episode 30: myNewsWrap – SAP and Microsoft
+# Episode 31: myNewsWrap – SAP and Microsoft
 
 ## Links to Video and Podcast
 
-* YouTube: [Link](https://youtu.be/-C0LscH7mms)
-* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-30-euhvbp)
+* YouTube: [Link](https://youtu.be/p5OWBJR7zAY)
+* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-31-ev12i5)
 
 ## SAP Universe
 
 ### General
 
-No news this week
+* [SAP Forms Strategic Partnership for Financial Services Industries](https://news.sap.com/2021/04/sap-dediq-strategic-partnership-financial-services/)
+  * [SAP stellt Geschäft mit Finanzdienstleistern eigenständig auf](https://www.cio.de/a/sap-stellt-geschaeft-mit-finanzdienstleistern-eigenstaendig-auf,3657745)
+  * [SAP-Bündnis mit Dediq für Cloud-Angebot an Finanzdienstleister](https://www.finanznachrichten.de/nachrichten-2021-04/52559177-sap-buendnis-mit-dediq-fuer-cloud-angebot-an-finanzdienstleister-015.htm)
+  * [SAP bumps up its 2021 forecast as it forms new financial services business (siliconANGLE)](https://siliconangle.com/2021/04/13/sap-bumps-fiscal-2021-forecast-forms-new-business-focused-financial-services/)
+  * [SAP spaltet Geschäftsbereich für Finanzbranche ab – was das für den Konzern bedeutet (Handelsblatt)](https://www.handelsblatt.com/technik/it-internet/softwarekonzern-sap-spaltet-geschaeftsbereich-fuer-finanzbranche-ab-was-das-fuer-den-konzern-bedeutet/27090450.html?ticket=ST-2968714-lW0ySYcJkfGv0FWApj6p-ap5)
 
 ### Business Technology Platform Core
 
-* [SAP Business Technology Platform: Upgrading from Feature Set A to B](https://blogs.sap.com/2021/04/08/sap-business-technology-platform-upgrading-from-feature-set-a-to-b/)
+* [SAP Business Technology Platform Security | Hands-on Video Tutorials](https://blogs.sap.com/2021/04/15/sap-business-technology-platform-security-hands-on-video-tutorials-3/)
+* [Vue Development with SAP Business Application Studio](https://blogs.sap.com/2021/04/12/vue-development-with-sap-business-application-studio/)
 
 ### Cloud Application Programing Model
 
-* [Spring 2021 release for the CAP framework](https://cap.cloud.sap/docs/releases/mar21)
+* [SAP Samples Spotlight: cloud-cap-samples](https://youtu.be/ia3qFuasDnw)
+* [reCAP 2021](https://twitter.com/vobu/status/1382744666597175301) - there will be one
 
 ### Kyma
 
-No news this week
+* [Flexibility with the sizing of SAP BTP, Kyma runtime](https://blogs.sap.com/2021/04/13/flexibility-with-the-sizing-of-sap-btp-kyma-runtime/)
 
 ### ABAP Steampunk
 
-No news this week
+* [How to innovate with ABAP and SAP BTP with Aleks Debelic](https://anchor.fm/josh-bentley/episodes/14-How-to-innovate-with-ABAP-and-SAP-BTP-with-Aleks-Debelic-eug6al/a-a56cuml)
 
 ### Misc
 
-No news this week
+* [SAP Graph Toolkit @ npm](https://www.npmjs.com/package/@sap/graph-toolkit)
 
 ## Microsoft Universe
 
 ### General
 
-No news this week
+* [Microsoft accelerates industry cloud strategy for healthcare with the acquisition of Nuance](https://news.microsoft.com/2021/04/12/microsoft-accelerates-industry-cloud-strategy-for-healthcare-with-the-acquisition-of-nuance/)
 
 ### Azure Functions/Serverless
 
-* [Create a secure GitHub webhook to trigger an Azure PowerShell Function](https://4bes.nl/2021/04/04/create-a-secure-github-webhook-to-trigger-an-azure-powershell-function/)
-* [Serverless FastAPI on Azure](https://medium.com/fastapi-tutorials/serverless-fastapi-on-azure-cddf8cd50482)
-* [Introducing the Azure Static Web Apps CLI](https://techcommunity.microsoft.com/t5/apps-on-azure/introducing-the-azure-static-web-apps-cli/ba-p/2257581)
-* [AzureFunBytes Episode 38 - Azure Static Web Apps with @nthonyChu!](https://dev.to/azure/azurefunbytes-episode-38-azure-static-web-apps-with-nthonychu-4o3p)
+* [Netherite](https://microsoft.github.io/durabletask-netherite/#/)
+* [AzureLive: Creating a PagerDuty Clone](https://speakerdeck.com/marcduiker/azurelive-creating-a-pagerduty-clone)
 
 ### Misc
 
-* [Announcing Preview of Microsoft Build of OpenJDK](https://devblogs.microsoft.com/java/announcing-preview-of-microsoft-build-of-openjdk/)
-* [Best security, compliance, and privacy practices for the rapid deployment of publicly facing Microsoft Power Apps intake forms](https://www.microsoft.com/security/blog/2020/06/29/best-security-compliance-and-privarapid-deployment-publicly-microsoft-power-apps-intake-forms/)
+* [Access data in Cosmos DB with Managed Identities](https://zure.com/en/blog/access-data-in-cosmos-db-with-managed-identities/)
+* [Luca-App versus Open Source](https://www.heise.de/developer/artikel/Luca-App-versus-Open-Source-6016089.html)
 
 ## SAP and Microsoft - Combining both worlds
 
-* [SAP on Azure Video Podcast #35 - The One with the Blue-Green Deployment (Martin Pankraz)](https://youtu.be/SKuqJ6ZFpVc)
-* [MS Teams sales collaboration with SAP Business ByDesign CRM](https://youtu.be/YJYrX86b-YU)
-* [Azure Logic Apps and RFC Transaction Support](https://twitter.com/david_burg/status/1380213983903313927)
+* [Principal propagation in a multi-cloud solution between Microsoft Azure and SAP Business Technology Platform (BTP), Part IV: SSO with a Power Virtual Agent Chatbot and On-Premises Data Gateway](https://blogs.sap.com/2021/04/13/principal-propagation-in-a-multi-cloud-solution-between-microsoft-azure-and-sap-business-technology-platform-btp-part-iv-sso-with-a-power-virtual-agent-chatbot-and-on-premises-data-gateway/)
+* [SharePoint Integration using SAP CPI (Without SAP Open Connector)](https://blogs.sap.com/2021/04/15/sharepoint-integration-using-sap-cpi-without-sap-open-connector/)
 
 ## Events and Education
 
-* [Cosmos DB Conf](https://gotcosmos.com/conf)
-  * Cosmos DB + Azure Functions: A serverless database processing
-  * Integrating Azure Cosmos DB in your Cloud Solution
-  * Integrating Cosmos DB with Azure Functions
+* [How to Become a Certified Kubernetes Application Developer](https://www.freecodecamp.org/news/how-to-become-a-certified-kubernetes-application-developer/)
+* [Explore Microsoft Graph scenarios for JavaScript development](https://docs.microsoft.com/en-gb/learn/paths/m365-msgraph-scenarios/)
+* [It's official: Microsoft Build will be May 25 to 27](https://www.zdnet.com/article/its-official-microsoft-build-will-be-may-25-to-27/)
 
 ## Productivity & Developer Experience
 
-No news this week
+* [Work with GitHub Actions in your terminal with GitHub CLI](https://github.blog/2021-04-15-work-with-github-actions-in-your-terminal-with-github-cli/)
+* [Microsoft survey - Work from home](https://finance.yahoo.com/news/microsoft-survey-73-percent-of-workers-want-to-work-from-home-after-pandemic-130029295.html)
 
 ## Disclaimer
 
