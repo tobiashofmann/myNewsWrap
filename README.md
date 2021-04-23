@@ -1,73 +1,76 @@
-# Episode 31: myNewsWrap – SAP and Microsoft
+# Episode 32: myNewsWrap – SAP and Microsoft
 
 ## Links to Video and Podcast
 
-* YouTube: [Link](https://youtu.be/p5OWBJR7zAY)
-* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-31-ev12i5)
+* YouTube: [Link](https://youtu.be/tHhxKlDctE0)
+* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-32-evg4nr)
 
 ## SAP Universe
 
 ### General
 
-* [SAP Forms Strategic Partnership for Financial Services Industries](https://news.sap.com/2021/04/sap-dediq-strategic-partnership-financial-services/)
-  * [SAP stellt Geschäft mit Finanzdienstleistern eigenständig auf](https://www.cio.de/a/sap-stellt-geschaeft-mit-finanzdienstleistern-eigenstaendig-auf,3657745)
-  * [SAP-Bündnis mit Dediq für Cloud-Angebot an Finanzdienstleister](https://www.finanznachrichten.de/nachrichten-2021-04/52559177-sap-buendnis-mit-dediq-fuer-cloud-angebot-an-finanzdienstleister-015.htm)
-  * [SAP bumps up its 2021 forecast as it forms new financial services business (siliconANGLE)](https://siliconangle.com/2021/04/13/sap-bumps-fiscal-2021-forecast-forms-new-business-focused-financial-services/)
-  * [SAP spaltet Geschäftsbereich für Finanzbranche ab – was das für den Konzern bedeutet (Handelsblatt)](https://www.handelsblatt.com/technik/it-internet/softwarekonzern-sap-spaltet-geschaeftsbereich-fuer-finanzbranche-ab-was-das-fuer-den-konzern-bedeutet/27090450.html?ticket=ST-2968714-lW0ySYcJkfGv0FWApj6p-ap5)
+* [My SAPPHIRE NOW 2021 wish list](https://www.itsfullofstars.de/2021/04/my-sapphire-now-2021-wish-list/)
 
 ### Business Technology Platform Core
 
-* [SAP Business Technology Platform Security | Hands-on Video Tutorials](https://blogs.sap.com/2021/04/15/sap-business-technology-platform-security-hands-on-video-tutorials-3/)
-* [Vue Development with SAP Business Application Studio](https://blogs.sap.com/2021/04/12/vue-development-with-sap-business-application-studio/)
+* [Cloud-Native Lab #4 – Multi-tenant Apps in SAP BTP](https://blogs.sap.com/2021/04/22/cloud-native-lab-4-multi-tenant-apps-in-sap-btp/)
+* [The Enhanced What’s New for SAP BTP](https://blogs.sap.com/2021/04/21/the-enhanced-whats-new-for-sap-btp/)
+* [SAP Integration & Extension Talk - SAP Integration & Extension Talk - Episode 70: Spotlight on Pay-as-You-Go for SAP BTP and CI/CD](https://podcast.opensap.info/cloud-platform/)
+* [SAP BTP Garage Series Episode 1 (Extend Business Processes on SAP BTP)](https://webinars.sap.com/eur/2021-05-05-sap-ie-btp-garage-webinar-part1/en/home)
 
 ### Cloud Application Programing Model
 
-* [SAP Samples Spotlight: cloud-cap-samples](https://youtu.be/ia3qFuasDnw)
-* [reCAP 2021](https://twitter.com/vobu/status/1382744666597175301) - there will be one
+* [Our use of the SAP Cloud Application Programming Model (CAP)](https://blogs.sap.com/2021/04/19/our-use-of-the-sap-cloud-application-programming-model-cap/)
 
 ### Kyma
 
-* [Flexibility with the sizing of SAP BTP, Kyma runtime](https://blogs.sap.com/2021/04/13/flexibility-with-the-sizing-of-sap-btp-kyma-runtime/)
+* [SAP CodeTalk: SAP Business Technology Platform, Kyma Runtime](https://youtu.be/B0_qyY0H7Uo)
+* [Extending SAP SuccessFactors, SAP S/4HANA Cloud and SAP Marketing Cloud with a Trial Account in SAP Business Technology Platform](https://blogs.sap.com/2021/04/20/extending-sap-successfactors-sap-s-4hana-cloud-and-sap-marketing-cloud-with-a-trial-account-in-sap-business-technology-platform/)
 
 ### ABAP Steampunk
 
-* [How to innovate with ABAP and SAP BTP with Aleks Debelic](https://anchor.fm/josh-bentley/episodes/14-How-to-innovate-with-ABAP-and-SAP-BTP-with-Aleks-Debelic-eug6al/a-a56cuml)
+* [Generating and registering Business Configuration Objects with transport API support using the RAP Generator](https://blogs.sap.com/2021/04/21/generating-and-registering-business-configuration-objects-with-transport-api-support-using-the-rap-generator/)
 
 ### Misc
 
-* [SAP Graph Toolkit @ npm](https://www.npmjs.com/package/@sap/graph-toolkit)
+* [SAP - Open Source and InnerSource Publications Wiki](https://wiki.scn.sap.com/wiki/display/EmTech/Open+Source+and+InnerSource+Publications)
+* [Cloud Connector View in Cockpit](https://twitter.com/wolf_gregor/status/1384908333472169988)
 
 ## Microsoft Universe
 
 ### General
 
-* [Microsoft accelerates industry cloud strategy for healthcare with the acquisition of Nuance](https://news.microsoft.com/2021/04/12/microsoft-accelerates-industry-cloud-strategy-for-healthcare-with-the-acquisition-of-nuance/)
+* [We live in the Cloud](https://news.microsoft.com/stories/microsoft-datacenter-tour/)
 
 ### Azure Functions/Serverless
 
-* [Netherite](https://microsoft.github.io/durabletask-netherite/#/)
-* [AzureLive: Creating a PagerDuty Clone](https://speakerdeck.com/marcduiker/azurelive-creating-a-pagerduty-clone)
+* [Dev Show: Serverless Development with Azure Durable Functions in .NET 5](https://youtu.be/Yagbh5zpehM)
+* [Why Alibaba Cloud uses KEDA for application autoscaling](https://www.cncf.io/blog/2021/03/30/why-alibaba-cloud-uses-keda-for-application-autoscaling/)
 
 ### Misc
 
-* [Access data in Cosmos DB with Managed Identities](https://zure.com/en/blog/access-data-in-cosmos-db-with-managed-identities/)
-* [Luca-App versus Open Source](https://www.heise.de/developer/artikel/Luca-App-versus-Open-Source-6016089.html)
+* [Microsoft ADAL - Find Usage](https://docs.microsoft.com/en-us/answers/questions/360928/information-how-to-find-apps-using-adal-in-your-te.html)
+* [Create and add a OneNote tab to your Microsoft Teams team channel using Power Automate + Graph API](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/create-and-add-a-onenote-tab-to-your-microsoft-teams-team/ba-p/2162502)
+* [How to use Power Virtual Agents to simplify IT and unf*ck User Experience](https://m365princess.com/how-to-use-power-virtual-agents-to-simplify-it-and-unfck-user-experience/)
 
 ## SAP and Microsoft - Combining both worlds
 
-* [Principal propagation in a multi-cloud solution between Microsoft Azure and SAP Business Technology Platform (BTP), Part IV: SSO with a Power Virtual Agent Chatbot and On-Premises Data Gateway](https://blogs.sap.com/2021/04/13/principal-propagation-in-a-multi-cloud-solution-between-microsoft-azure-and-sap-business-technology-platform-btp-part-iv-sso-with-a-power-virtual-agent-chatbot-and-on-premises-data-gateway/)
-* [SharePoint Integration using SAP CPI (Without SAP Open Connector)](https://blogs.sap.com/2021/04/15/sharepoint-integration-using-sap-cpi-without-sap-open-connector/)
+* No News this Week :-(
 
 ## Events and Education
 
-* [How to Become a Certified Kubernetes Application Developer](https://www.freecodecamp.org/news/how-to-become-a-certified-kubernetes-application-developer/)
-* [Explore Microsoft Graph scenarios for JavaScript development](https://docs.microsoft.com/en-gb/learn/paths/m365-msgraph-scenarios/)
-* [It's official: Microsoft Build will be May 25 to 27](https://www.zdnet.com/article/its-official-microsoft-build-will-be-may-25-to-27/)
+* [DSAG LIVE](https://twitter.com/_DSAG/status/1384517240066818050)
+* [Azure Cosmos DB Conf - Replay](https://gotcosmos.com/conf/ondemand)
+* [Global Azure 2021: Scaling your data to the size of the Cosmos (DB)](https://youtu.be/Qk-LbLMctck)
+* [Join me for: #100​ Days Of Kubernetes](https://www.youtube.com/watch?v=W6J6UipVNGA&list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV) by [Anais Urlichs](https://www.youtube.com/channel/UCb4mfRT5UWpjoUQRcIE2qOQ)
+
 
 ## Productivity & Developer Experience
 
-* [Work with GitHub Actions in your terminal with GitHub CLI](https://github.blog/2021-04-15-work-with-github-actions-in-your-terminal-with-github-cli/)
-* [Microsoft survey - Work from home](https://finance.yahoo.com/news/microsoft-survey-73-percent-of-workers-want-to-work-from-home-after-pandemic-130029295.html)
+* [The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux](https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/)
+  * [GitHub WSLg](https://github.com/microsoft/wslg)
+* [5 GitHub improvements](https://twitter.com/natfriedman/status/1383169103028908034?s=21)
+* [Developer experience is the next major competitive front in enterprise tech](https://www.protocol.com/enterprise/developer-experience-api-console)
 
 ## Disclaimer
 
