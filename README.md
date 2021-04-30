@@ -1,76 +1,71 @@
-# Episode 32: myNewsWrap – SAP and Microsoft
+# Episode 33: myNewsWrap – SAP and Microsoft
 
 ## Links to Video and Podcast
 
-* YouTube: [Link](https://youtu.be/tHhxKlDctE0)
-* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-32-evg4nr)
+* YouTube: [Link](https://youtu.be/Ng8fAdE9ZAo)
+* AnchorFM (Audio Stream): [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-33-evvciu)
 
 ## SAP Universe
 
 ### General
 
-* [My SAPPHIRE NOW 2021 wish list](https://www.itsfullofstars.de/2021/04/my-sapphire-now-2021-wish-list/)
+No news this week
 
 ### Business Technology Platform Core
 
-* [Cloud-Native Lab #4 – Multi-tenant Apps in SAP BTP](https://blogs.sap.com/2021/04/22/cloud-native-lab-4-multi-tenant-apps-in-sap-btp/)
-* [The Enhanced What’s New for SAP BTP](https://blogs.sap.com/2021/04/21/the-enhanced-whats-new-for-sap-btp/)
-* [SAP Integration & Extension Talk - SAP Integration & Extension Talk - Episode 70: Spotlight on Pay-as-You-Go for SAP BTP and CI/CD](https://podcast.opensap.info/cloud-platform/)
-* [SAP BTP Garage Series Episode 1 (Extend Business Processes on SAP BTP)](https://webinars.sap.com/eur/2021-05-05-sap-ie-btp-garage-webinar-part1/en/home)
+* [Outstretching SAP BTP with AppGyver](https://blogs.sap.com/2021/04/29/outstretching-sap-btp-with-appgyver/)
 
 ### Cloud Application Programing Model
 
-* [Our use of the SAP Cloud Application Programming Model (CAP)](https://blogs.sap.com/2021/04/19/our-use-of-the-sap-cloud-application-programming-model-cap/)
+No news this week
 
 ### Kyma
 
-* [SAP CodeTalk: SAP Business Technology Platform, Kyma Runtime](https://youtu.be/B0_qyY0H7Uo)
-* [Extending SAP SuccessFactors, SAP S/4HANA Cloud and SAP Marketing Cloud with a Trial Account in SAP Business Technology Platform](https://blogs.sap.com/2021/04/20/extending-sap-successfactors-sap-s-4hana-cloud-and-sap-marketing-cloud-with-a-trial-account-in-sap-business-technology-platform/)
+* [Kyma runtime now available on AWS](https://blogs.sap.com/2021/04/24/kyma-runtime-now-available-on-aws/)
+* [System Landscape - Delete Systems](https://twitter.com/mado0803/status/1385494616842117121)
+* [Implement user propagation flow when extending SAP Solutions with Kyma runtime](https://blogs.sap.com/2021/04/28/implement-user-propagation-flow-when-extending-sap-solutions-with-kyma-runtime/)
 
 ### ABAP Steampunk
 
-* [Generating and registering Business Configuration Objects with transport API support using the RAP Generator](https://blogs.sap.com/2021/04/21/generating-and-registering-business-configuration-objects-with-transport-api-support-using-the-rap-generator/)
+No news this week
 
 ### Misc
 
-* [SAP - Open Source and InnerSource Publications Wiki](https://wiki.scn.sap.com/wiki/display/EmTech/Open+Source+and+InnerSource+Publications)
-* [Cloud Connector View in Cockpit](https://twitter.com/wolf_gregor/status/1384908333472169988)
+No news this week
 
 ## Microsoft Universe
 
 ### General
 
-* [We live in the Cloud](https://news.microsoft.com/stories/microsoft-datacenter-tour/)
+* [Microsoft acquires Kinvolk to accelerate container-optimized innovation](https://azure.microsoft.com/en-us/blog/microsoft-acquires-kinvolk-to-accelerate-containeroptimized-innovation/)
+* [Teaming up with Coursera on new Azure Specializations and Scholarships](https://azure.microsoft.com/de-de/blog/teaming-up-with-coursera-on-new-azure-specializations-and-scholarships/)
 
 ### Azure Functions/Serverless
 
-* [Dev Show: Serverless Development with Azure Durable Functions in .NET 5](https://youtu.be/Yagbh5zpehM)
-* [Why Alibaba Cloud uses KEDA for application autoscaling](https://www.cncf.io/blog/2021/03/30/why-alibaba-cloud-uses-keda-for-application-autoscaling/)
+* [Azure Functions University](https://blog.marcduiker.nl/2021/04/27/azure-functions-university.html)
+* [Azure Functions: Calling APIs with Slack slash commands](https://blog.bredvid.no/azure-functions-calling-apis-with-slack-slash-commands-34884b573366)
+* [Getting Started With Azure Functions and MongoDB](https://thecodebarbarian.com/getting-started-with-azure-functions-and-mongodb.html)
 
 ### Misc
 
-* [Microsoft ADAL - Find Usage](https://docs.microsoft.com/en-us/answers/questions/360928/information-how-to-find-apps-using-adal-in-your-te.html)
-* [Create and add a OneNote tab to your Microsoft Teams team channel using Power Automate + Graph API](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/create-and-add-a-onenote-tab-to-your-microsoft-teams-team/ba-p/2162502)
-* [How to use Power Virtual Agents to simplify IT and unf*ck User Experience](https://m365princess.com/how-to-use-power-virtual-agents-to-simplify-it-and-unfck-user-experience/)
+* [Step-by-step: Deploy Bicep with Azure DevOps pipelines](https://4bes.nl/2021/04/18/step-by-step-deploy-bicep-with-azure-devops-pipelines/)
+* [How we ship code faster and safer with feature flags](https://github.blog/2021-04-27-ship-code-faster-safer-feature-flags/)
 
 ## SAP and Microsoft - Combining both worlds
 
-* No News this Week :-(
+* [Combine Power Automate, Microsoft Teams Approvals and an SAP Cloud Application Programming Model (CAP) App](https://blogs.sap.com/2021/04/29/combine-power-automate-microsoft-teams-approvals-and-an-sap-cloud-application-programming-model-cap-app/)
+* [SAP on Azure Video Podcast - Zero Trust for SAP](https://youtu.be/dUuLCge91KQ)
 
 ## Events and Education
 
-* [DSAG LIVE](https://twitter.com/_DSAG/status/1384517240066818050)
-* [Azure Cosmos DB Conf - Replay](https://gotcosmos.com/conf/ondemand)
-* [Global Azure 2021: Scaling your data to the size of the Cosmos (DB)](https://youtu.be/Qk-LbLMctck)
-* [Join me for: #100​ Days Of Kubernetes](https://www.youtube.com/watch?v=W6J6UipVNGA&list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV) by [Anais Urlichs](https://www.youtube.com/channel/UCb4mfRT5UWpjoUQRcIE2qOQ)
-
+* [reCAP - Date for 2021](https://sapmentors.github.io/reCAP/) - CfP is open!
+* Registration is open for:
+  * [SAPPHIRENOW 2021](https://reg.sapevents.sap.com/flow/sap/sapphirenow2021/event/page/home)
+  * [Microsoft Build](https://register.build.microsoft.com/)
 
 ## Productivity & Developer Experience
 
-* [The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux](https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/)
-  * [GitHub WSLg](https://github.com/microsoft/wslg)
-* [5 GitHub improvements](https://twitter.com/natfriedman/status/1383169103028908034?s=21)
-* [Developer experience is the next major competitive front in enterprise tech](https://www.protocol.com/enterprise/developer-experience-api-console)
+* [How to run Linux GUI apps on Windows 10 with WSL and WSLg](https://www.hanselman.com/blog/how-to-run-linux-gui-apps-on-windows-10-with-wsl-and-wslg)
 
 ## Disclaimer
 
