@@ -60,7 +60,7 @@ No news this week
 ## Learning and Events
 
 * [Kubernetes: Eine Einführung in 120 Minuten // deutsch](https://youtu.be/1SaPfm96lY4)
-* [reCAP 2022 - Call for Papers](https://recap.cfapps.eu10.hana.ondemand.com/)
+* [reᐳ≡CAP 2022 - Call for Papers](https://recap.cfapps.eu10.hana.ondemand.com/)
 * [Modernize and Migrate with Hybrid Cloud Flexibility](https://info.microsoft.com/ww-modernize-and-migrate-with-hybrid-cloud-flexibility.html?ocid=AID3046094_QSG_580396)
 * [IstioCon 2022](https://events.istio.io/istiocon-2022/)
 
